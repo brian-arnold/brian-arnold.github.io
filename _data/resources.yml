@@ -1,0 +1,11 @@
+resource_list_title: Topic 1
+resources_1:
+
+- title: Free Online Classes
+  url: /resources/freeOnlineClasses/
+
+- title: Bioinformatics tools
+  url: /resources/bioinfoTools/
+
+
+
