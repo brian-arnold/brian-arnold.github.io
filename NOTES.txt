@@ -1,0 +1,12 @@
+
+If you want a page to also have a tab in the header of the website, add an entry to _data/navigation.yml and have the url match that of the permalink of the page you want it to go to.
+
+To create pages in labeled subdirectories (as opposed to all pages in parent directory), just modify the 'permalink' variable in the YAML header to fix the URL for jekyll.
+
+if you want to create a list of links to other pages within your website, create the data for these links (names on urls) in YAML format in the _data directory, and then loop through these using Liquid:
+
+<ul>
+{% for item in site.data.resources.resources_1 %}
+    <li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
+{% endfor %}
+</ul>
