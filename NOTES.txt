@@ -10,3 +10,13 @@ if you want to create a list of links to other pages within your website, create
     <li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
 {% endfor %}
 </ul>
+
+
+
+
+
+
+###
+# TO DO:
+###
+- add talks to CV
