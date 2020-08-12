@@ -27,6 +27,8 @@ key: page-resources
 permalink: /resources/
 ---
 
+# TEST
+
 <ul>
 {% for item in site.data.resources.resources_1 %}
     <li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
