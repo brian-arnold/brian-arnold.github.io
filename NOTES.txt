@@ -12,6 +12,7 @@ if you want to create a list of links to other pages within your website, create
 </ul>
 
 
+For pages with titles (e.g. About, Resources), do not start them with a markdown header, just regular text. For reasons I don't understand, starting a page with a header replaces the title name with the name of this header on the top of the page, duplicating it. I only observe this problem on the live website, not on the locally built one!
 
 
 

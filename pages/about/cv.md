@@ -6,7 +6,7 @@ aside:
     toc: true
 ---
 
-# [About](/about/)/CV
+Back to [About](/about/)
 
 ## Education
 - **PhD** in Organismic and Evolutionary Biology, Harvard University, 2015

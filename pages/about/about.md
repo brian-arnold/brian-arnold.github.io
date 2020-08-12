@@ -25,8 +25,8 @@ titles:
   # @end locale config
 key: page-about
 permalink: /about/
-#aside:
-#    toc: true
+aside:
+    toc: true
 ---
 
 Some obligatory text to prevent page title from getting replaced with first header
