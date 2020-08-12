@@ -1,6 +1,29 @@
 ---
 layout: article
 key: page-about-cv
+titles:
+  # @start locale config
+  en      : &EN      CV 
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  简历
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  zh-Hant : &ZH_HANT  簡歷
+  zh-TW   : *ZH_HANT
+  zh-HK   : *ZH_HANT
+  ko      : &KO      이력서 
+  ko-KR   : *KO
+  fr      : &FR      CV 
+  fr-BE   : *FR
+  fr-CA   : *FR
+  fr-CH   : *FR
+  fr-FR   : *FR
+  fr-LU   : *FR
+  # @end locale config
 permalink: /about/cv/
 aside:
     toc: true
