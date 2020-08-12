@@ -16,7 +16,7 @@ aside:
 - **BS** in Plant Biology, University of Minnesota -- Twin Cities, 2008
     - *Honors* and *High Distinction*
 
-## Academic Exp
+## Research Exp
 - Ruth L. Kirschstein **Postdoctoral Fellow**, Harvard T.H. Chan School of Public Health (2015-2018)
     - Advisors: Bill Hanage, Marc Lipsitch, Yonatan Grad
 - **Visiting Scientist**, University of Helsinki (2016)
