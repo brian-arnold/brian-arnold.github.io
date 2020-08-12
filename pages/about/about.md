@@ -29,7 +29,9 @@ aside:
     toc: true
 ---
 
-# [CV](/about/cv/)
+# CV
+
+See [here](/about/cv/) for my full CV.
 
 # Career
 
