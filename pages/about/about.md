@@ -30,7 +30,6 @@ aside:
 ---
 
 # [CV](/about/cv/)
-{{ page.path }}
 
 # Career
 
