@@ -27,7 +27,7 @@ key: page-resources
 permalink: /resources/
 ---
 
-# TEST
+Some nonheader test text
 
 <ul>
 {% for item in site.data.resources.resources_1 %}
