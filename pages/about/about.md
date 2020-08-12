@@ -29,7 +29,7 @@ permalink: /about/
 #    toc: true
 ---
 
-# TEST
+Some obligatory text to prevent page title from getting replaced with first header
 
 # CV
 
