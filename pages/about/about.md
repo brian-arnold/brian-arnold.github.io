@@ -25,8 +25,8 @@ titles:
   # @end locale config
 key: page-about
 permalink: /about/
-aside:
-    toc: true
+#aside:
+#    toc: true
 ---
 
 # TEST
