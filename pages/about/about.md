@@ -29,7 +29,8 @@ aside:
     toc: true
 ---
 
-# [CV](/about/CV/)
+# [CV](/about/cv/)
+{{ page.path }}
 
 # Career
 
