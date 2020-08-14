@@ -2,7 +2,7 @@
 # TO DO:
 ###
 - why are headers being duplicated and replacing the headers I expect on internet, but not on local build!?
-- add talks to CV
+- add publications, talks to CV
 - add web design (with Jekyll, liquid, and HTML)  to skills (this website!)
 
 
