@@ -37,8 +37,20 @@ See [here](/about/cv/) for my full CV.
 
 # Career
 
-talk about your career and future plans and mission
+I am an academic data scientist with expertise in bioinformatics. I enjoy this job because I love sharing the excitement of scientific discovery with others and collaborating with faculty and students. The exact role of these scientists depends on their source of funding (and whether they serve a department or a particular group) and may be to:
+
+- **Enhance scientific output**
+    - help professors acquire grants
+    - serve as key collaborators on projects
+    - pursue projects that may not result in publication 
+        - high risk but high reward
+        - optimizing routinely-used computational analyses
+    - help wet labs and bench scientists analyze large datasets with high-performance computing clusters
+- **Provide training in technical skills**
+    - teach workshops on specific types of data analysis
+    - consult individual graduate students or postdocs
+
 
 # Background
 
-talk more about your research experience, generalist
+(under construction, put research exp here)

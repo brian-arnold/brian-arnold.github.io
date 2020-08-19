@@ -1,9 +1,10 @@
 ###
 # TO DO:
 ###
-- why are headers being duplicated and replacing the headers I expect on internet, but not on local build!?
-- add publications, talks to CV
+- make blog using data visualization to study regression to the mean (any time 2 variables imperfectly correlated, you'll observe regression to the mean)
+- add talks to CV
 - add web design (with Jekyll, liquid, and HTML)  to skills (this website!)
+- how get google analytics?
 
 
 
@@ -26,6 +27,7 @@ Clearly separate sections that are self-promotional vs general information
         - serve as an extra pair of (highly experienced) hands
             - some projects can take a considerable amount of time, potentially creating burnout for grad students and postdocs
             - help meet deadlines 
+        - facilitate collaborations between PIs/labs
         - many of these tasks may be accomplished indirectly by a staff scientist helping to set up and organize infastructure/large datasets to make all downstream analyses easier, clearer, and more reproducible in the case that some analyses need to be repeaated
 
         - interview faculty about what supportive roles in the uni they think would benefit their labs? What are students/postdocs struggling with that they feel they have to figure out on their own? Being first author can be extraordinarily demanding, and putting a paper together primarily by yourself requires more time than anyone anticipates. How to speed this up or make process more enjoyable? bioinformatician/data scientist != sys admin, and these scientists should be constantly working with other computer scientists with specialized knowledge of HPC architecture. Nature/science have some good articles on the role of staff scientists.
