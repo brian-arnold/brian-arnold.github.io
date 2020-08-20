@@ -1,9 +1,9 @@
 ###
 # TO DO:
 ###
+- add twitter/linkedIn links to front page
 - make blog using data visualization to study regression to the mean (any time 2 variables imperfectly correlated, you'll observe regression to the mean)
 - add talks to CV
-- add web design (with Jekyll, liquid, and HTML)  to skills (this website!)
 - how get google analytics?
 
 
