@@ -15,5 +15,13 @@ if you want to create a list of links to other pages within your website, create
 For pages with titles (e.g. About, Resources), do not start them with a markdown header, just regular text. For reasons I don't understand, starting a page with a header replaces the title name with the name of this header on the top of the page, duplicating it. I only observe this problem on the live website, not on the locally built one!
 
 
-
+# CHANGING THE LOGO, IN TABS BUT ALSO IN THE HEADER OF EACH PAGE
+- design logo in powerpoint, see logo dir in root
+- export logo as PDF from powerpoint
+- crop PDF and export as PNG
+- save this PNG but also convert it to an SVG file with color using this website: https://onlineconvertfree.com/convert-format/png-to-svg/
+- Follow instructions specifically for TeXt theme: https://tianqi.name/jekyll-TeXt-theme/docs/en/logo-and-favicon
+- after following these instructions, you downloaded favicon_package_v0.16.zip and put it in the logo dir in root
+- unzip this file, and put it’s contents in the assets dir in root, which will overwrite some files, also put the favicon.ico file in root
+- take the svg file you made in logo, and put this in _includes/svg, this will modify the picture in the header of each page!
 
