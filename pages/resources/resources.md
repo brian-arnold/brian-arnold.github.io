@@ -27,7 +27,7 @@ key: page-resources
 permalink: /resources/
 ---
 
-Some obligatory text to prevent page title from getting replaced with first header
+<br />
 
 <ul>
 {% for item in site.data.resources.resources_1 %}
