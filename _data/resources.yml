@@ -1,11 +1,19 @@
-resource_list_title: Topic 1
-resources_1:
+resource_notes_title: Personal Notes
+resources_notes:
 
-- title: Free Online Classes
-  url: /resources/freeOnlineClasses/
+- title: Key concepts in Data Science 
+  url: /resources/datascience/
 
-- title: Bioinformatics tools
+- title: Bioinformatics tools 2
   url: /resources/bioinfoTools/
 
+resource_classes_title: Free Online Classes 
+resources_classes:
+
+- title: MIT Open Courseware
+  url: https://ocw.mit.edu/index.htm
+
+- title: Harvard Online Courses 
+  url: https://online-learning.harvard.edu/
 
 

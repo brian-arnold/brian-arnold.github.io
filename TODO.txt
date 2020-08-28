@@ -33,6 +33,12 @@ Clearly separate sections that are self-promotional vs general information
         - interview faculty about what supportive roles in the uni they think would benefit their labs? What are students/postdocs struggling with that they feel they have to figure out on their own? Being first author can be extraordinarily demanding, and putting a paper together primarily by yourself requires more time than anyone anticipates. How to speed this up or make process more enjoyable? bioinformatician/data scientist != sys admin, and these scientists should be constantly working with other computer scientists with specialized knowledge of HPC architecture. Nature/science have some good articles on the role of staff scientists.
 
 - Resources (site serves as way to organize knowledge, and documenting it helps memory)
+    - Simple/elementary/but important/worth remembering things I try to keep in mind as a data scientist (this can be thigns you learn from classes), these topics are biased towards more-specific ones that are important but can be discussed in a short length. These are quite simple/elementary things that are easy to forget with time but still super important... or pitch it in terms of pedagogy, love keeping track of beautifullly simple, visual examples to explain things? have section on bioinformatics? Aliases?
+        - CLT and estimating variance of a single estimate of a mean, but how the accuracy (diff b/t pop variance and sample variance) depends on the underlying distribution! the more skew, the more samples you'll need to get a good approximation (e.g. exponential is bad, uniform is good). Depending on what kind of precision you want, you can estimate beforehand the sample size you need.
+        - monte carlo simulations? other sampling methods?
+        - regression to the mean?
+        - coefficient of determination interpretation, see 6.0002 lecture 9/10 and https://www.khanacademy.org/math/ap-statistics/bivariate-data-ap/assessing-fit-least-squares-regression/a/r-squared-intuition
+        - model overfitting, see 6.0002 lecture 10, which is fantastic
     - selected notes on R (with R: factors: levels and values and changing these so that colors are in order; see https://www.stat.berkeley.edu/~s133/factors.html)
     - selected notes on python ( sorting list of tuples by second element, sorting dictionary by values, etc.)
     - stats BS detector 
@@ -43,6 +49,8 @@ Clearly separate sections that are self-promotional vs general information
         - color brewer
         - https://coolors.co/generate
         - Nat Methods articles
+    - How to keep up with newest software
+        - track repos of good programs
 
 - Bioinformatics
     - I have experience processing numerous types of sequencing data, from various types of organisms that have dramatically different genomes, such as plants (including polyploids), mammals, and bacteria. (have link to papers showing examples)
