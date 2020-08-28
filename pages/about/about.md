@@ -30,8 +30,7 @@ aside:
 ---
 
 
-<br />
-
+I am a Data Scientist at Princeton University where I work in the [Center for Statistics and Machine Learning](https://csml.princeton.edu/) and the [Department of Computer Science](https://www.cs.princeton.edu/).
 
 # CV
 

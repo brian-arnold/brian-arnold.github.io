@@ -4,8 +4,8 @@ resources_notes:
 - title: Key concepts in Data Science 
   url: /resources/datascience/
 
-- title: Bioinformatics tools 2
-  url: /resources/bioinfoTools/
+- title: Training your statistical BS detector
+  url: /resources/statsBsDetector/
 
 resource_classes_title: Free Online Classes 
 resources_classes:
