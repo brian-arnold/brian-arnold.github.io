@@ -25,3 +25,7 @@ For pages with titles (e.g. About, Resources), do not start them with a markdown
 - unzip this file, and put it’s contents in the assets dir in root, which will overwrite some files, also put the favicon.ico file in root
 - take the svg file you made in logo, and put this in _includes/svg, this will modify the picture in the header of each page!
 
+# CHANGING THE SKIN
+- in the _sass subdir, you'll find skins/_YlGnBu.scss, which stores many variable related to colors that you can change. These colors get recycled for several things (e.g. the color for hyperlinked text was the same as how the tabs in the header navigation get highlighted when you click them), such that you can create new variables to unlink different features (e.g. I created $header-highlighted-color to make the header navigation get highlighted a different color from hyperlinked text).
+- also in the _sass subdir, there is a components dir that controls where these colors get used. I had to change _header.scss in this dir to take this new $header-highlighted-color variable I defined in skins/_YlGnBu.scss
+
