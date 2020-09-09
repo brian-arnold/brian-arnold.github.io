@@ -46,6 +46,7 @@ I am an academic data scientist with expertise in bioinformatics. I enjoy this j
     - pursue projects that may not result in publication 
         - high risk but high reward
         - optimizing routinely-used computational analyses
+        - reproduce and validate results from other groups working on similar topics
     - help wet labs and bench scientists analyze large datasets with high-performance computing clusters
 - **Provide training in technical skills**
     - teach workshops on specific types of data analysis

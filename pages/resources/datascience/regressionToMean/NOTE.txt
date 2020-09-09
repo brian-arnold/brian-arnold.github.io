@@ -1,0 +1,1 @@
+te get code inserted into markdown file, I had Rstuidio knit the .Rmd file into HTML, saved that in this directory, and then copy/pasted this code at the bottom of the markdown file.

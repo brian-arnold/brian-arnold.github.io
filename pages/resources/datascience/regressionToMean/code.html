@@ -1,49 +1,4 @@
----
-layout: article
-key: page-resources-bioinfoTools
-permalink: /resources/datascience/regressionToMean/
----
-
-[Regression to the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) (RTM) can be difficult to understand. Oftentimes, this concept is explained in the context of trying to interpret data involving repeated measurements, such as data that have been collected through time. However, ***RTM is applicable to tons of scenarios: anytime you have two variables that are imperfectly correlated!***
-
-### classic example
-
-RTM implies that if you observe an extreme result, the next time you record data, you are more likely to observe results that are closer to the mean value. For example, assume someone's performance at a task is not the same every day but has random variability that depends on sleep, mood, weather, and other random events that happened that day. Most of the time their performance is near its average value, but some days are just really bad (or good!). 
-
-***RTM implies that if this person performs very poorly on day 1, their performance on day 2 is more likely to be towards its mean value just by chance.*** That is, this person's performance is expected to increase from day 1 to day 2 simply due to RTM. Without knowing about RTM, we could easily come up with some plausible but incorrect explanations as to why this increase occurred (e.g. say someone yelled at them for performing poorly, so they were 'motivated' to do better the next day), but this observation is completely consistent with random fluctuations in performance each day.
-
-### inuitive definition with visualizations
-
-Another definition of this concept, along with the visualizations below, really helped this concept click for me: ***whenever the correlation between two variables (e.g. performance on day 1 vs day 2) is less than one, there will be RTM.*** That is, if one variable doesn't perfectly predict another (e.g. when *x* is 10, *y* is close to 10 but not exactly), which is almost always the case, then RTM is a mathematical inevitability. 
-
-
-To visualize this, let's look at two normally-distributed variables, x and y, that are imperfectly correlated with either a high or low correlation of 0.8 or 0.2, respectively. To visualize RTM, let's select extreme values of y and look at the conditional sampling distribution of x, given y. This is analagous to the situation above where we condition on observing an extreme performance on day 1 and then peek at what the distribution of day 2 looks like.
-
-These two variables are plotted below in two scenarios in which they have a high (top row) or low (bottom row) correlation. The sampling distribution of x, conditional on y being somewhat extreme (greater than 2), is highlighted with the red dots in the scatterplots (left column) but also shown explicitly with histograms (right column).
-
-For the case where x and y are highly correlated, x may take on similar values as y, greater than 2, but many of these x values are less extreme than 2 where we would say x is regressing towards its mean. The effect is a bit subtle here, but if we do the same exercise when x and y have a lower correlation, there is strong RTM as a vast majority of the values x might take on are less than 2. Here, x has a strong chance to regress to its mean.
-
-say a precursor to understanding this is knowing about correlation
-have plot titles be "correlation"
-
-
-
-![image-title](/pages/resources/datascience/regressionToMean/plot.png)
-
-
-
-
-examples
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-Below is the R code used to generate this figure:
-
+<!DOCTYPE html>
 
 <html>
 
@@ -510,5 +465,3 @@ $(document).ready(function () {
 
 </body>
 </html>
-
-

@@ -1,0 +1,62 @@
+---
+title: "Regression to the Mean"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Loading in libraries. I will use 'mvtnorm' to simulate two noramlly-distributed variables that are imperfectly correlated.
+```{r, warning=FALSE}
+library(mvtnorm)
+library(scales)
+library(tidyverse)
+```
+
+
+Let's make our two variables have a high correlation of 0.8 and then a low correlation of 0.2 and look at the difference. We will store these values in a vector that we will iterate across.
+```{r}
+covars <- c(0.8, 0.2)
+```
+
+For each of these covariances, or correlations between the two variables, we will simulate data and make a plot.
+```{r, include=TRUE, warning=FALSE}
+par(bty="n", mfrow=c(2,2)) # make a plot with no box type with 6 panels: 3 rows and 2 columns
+for (covar in covars){
+  
+  covar_mat <- rbind(c(1,covar), c(covar,1))    # create covariance matrix
+
+  # create table of draws from a bivariate normal distribution
+  d <- rmvnorm(n=10000, mean = rep(0,2), sigma=covar_mat) %>%
+    as_tibble() %>% rename("x" = V1, "y" = V2)
+  
+  # create another table that selects only extreme values for y 
+  d_red <- d %>% 
+    filter(y >= 2)
+    
+  # make a plot
+  plot(d$x, d$y, 
+     pch=16, 
+     col=alpha("black", 0.1),
+     main=paste("correlation = ", covar, sep=" "),
+     xlab="x",
+     ylab="y",
+     axes=F, 
+     ylim=c(-3.5, 3.5),
+     xlim=c(-3.5, 3.5))
+  points(d_red$x, 
+    d_red$y, 
+    col=alpha("red", 0.3), 
+    pch=16)
+  axis(side=1,  labels=T, at=c(-3,-2,-1,-1,0,1,2,3))
+  axis(side=2, labels=T, at=c(-3,-2,-1,-1,0,1,2,3))
+  abline(h=2, lty=3, col="blue", lwd=2)
+  hist(d_red$x, col=alpha("red", 0.5), xlab="x", freq=F, main="", breaks=20)
+  abline(v=2, lty=3, col="blue", lwd=2)
+}
+```
+
