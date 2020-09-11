@@ -13,5 +13,6 @@ This page contains brief explanations of elementary but important concepts in Da
 
 - [regression to the mean](/resources/datascience/regressionToMean/)
 - model (over)fitting, training, and testing
+- coefficient of determination
 
 

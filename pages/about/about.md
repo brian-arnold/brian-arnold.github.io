@@ -51,6 +51,7 @@ I am an academic data scientist with expertise in bioinformatics. I enjoy this j
 - **Provide training in technical skills**
     - teach workshops on specific types of data analysis
     - consult individual graduate students or postdocs
+    - many questions in diverse biological systems use similar techniques to processing and analyzing data
 
 
 # Background

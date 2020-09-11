@@ -1,5 +1,5 @@
 ---
-title: "Regression to the Mean"
+title: ""
 output:
   html_document: default
   pdf_document: default
@@ -25,7 +25,7 @@ covars <- c(0.8, 0.2)
 
 For each of these covariances, or correlations between the two variables, we will simulate data and make a plot.
 ```{r, include=TRUE, warning=FALSE}
-par(bty="n", mfrow=c(2,2)) # make a plot with no box type with 6 panels: 3 rows and 2 columns
+par(bty="n", mfrow=c(2,3)) # make a plot with no box type with 6 panels: 3 rows and 2 columns
 for (covar in covars){
   
   covar_mat <- rbind(c(1,covar), c(covar,1))    # create covariance matrix
@@ -46,17 +46,32 @@ for (covar in covars){
      xlab="x",
      ylab="y",
      axes=F, 
-     ylim=c(-3.5, 3.5),
-     xlim=c(-3.5, 3.5))
+     ylim=c(-4, 4),
+     xlim=c(-4, 4))
   points(d_red$x, 
     d_red$y, 
     col=alpha("red", 0.3), 
     pch=16)
-  axis(side=1,  labels=T, at=c(-3,-2,-1,-1,0,1,2,3))
-  axis(side=2, labels=T, at=c(-3,-2,-1,-1,0,1,2,3))
+  axis(side=1,  labels=T, at=c(-4,-2,0,2,4))
+  axis(side=2, labels=T, at=c(-4,-2,0,2,4))
   abline(h=2, lty=3, col="blue", lwd=2)
-  hist(d_red$x, col=alpha("red", 0.5), xlab="x", freq=F, main="", breaks=20)
-  abline(v=2, lty=3, col="blue", lwd=2)
+  
+  hist(d_red$x, 
+       col=alpha("red", 0.5), 
+       xlab="x", 
+       freq=F, 
+       main="distribution of x", 
+       breaks=10, 
+       xlim=c(-4, 4))
+  abline(v=2, lty=3, col="blue", lwd=3)
+  hist(d_red$x - d_red$y, 
+       col=alpha("red", 0.5), 
+       xlab="x", 
+       freq=F, 
+       main="distribution of x-y", 
+       breaks=10, 
+       xlim=c(-4, 4))
+  abline(v=0, lty=1, col="black", lwd=3)
 }
 ```
 
