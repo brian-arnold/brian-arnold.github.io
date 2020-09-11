@@ -1,6 +1,6 @@
 ---
 layout: article
-key: page-resources-bioinfoTools
+key: page-resources-datascience-regressionToMean
 permalink: /resources/datascience/regressionToMean/
 ---
 
