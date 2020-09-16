@@ -8,6 +8,8 @@ Back to [Resources](/resources/)
 
 # Notes on git
 
+These are working templates I use for projects using git and GitHub.
+
 ### Starting a new repository
 ### Contributing to an existing repository
 ### Working with branches
@@ -16,7 +18,7 @@ look at all your branches: `git branch -av`
 <br>
 create new branch: `git checkout -b new_branch_name`
 <br>
-after work is done, save changes: `git commit -a -m 'commit_message'`
+after work is done, save changes: `git commit --all -m 'commit_message'`
 <br>
 optional, push new branch and changes to remote repository: `git push -u origin new_branch_name`
 <br>
