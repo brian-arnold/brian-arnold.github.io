@@ -28,7 +28,6 @@ permalink: /resources/
 ---
 
 <br />
-testestest
 
 <!--- Personal Notes, taken from _data/resources.yml --->
 
