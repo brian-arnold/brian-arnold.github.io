@@ -4,13 +4,13 @@ resources_notes:
 - title: Key concepts in Data Science 
   url: /resources/datascience/
 
-- title: Graphic Design
+- title: Graphic design
   url: /resources/graphicDesign/
 
 - title: Training your statistical BS detector
   url: /resources/statsBsDetector/
 
-- title: GitHub
+- title: Managing code with GitHub (templates)
   url: /resources/gitHub/
 
 resource_classes_title: Free Online Classes 

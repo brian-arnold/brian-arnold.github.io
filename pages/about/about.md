@@ -35,6 +35,9 @@ I am a Data Scientist at Princeton University where I work in the [Center for St
 # CV
 
 See [here](/about/cv/) for my full CV.
+<br>
+Code I have written can be found on [GitHub](https://github.com/brian-arnold).
+
 
 # Career
 

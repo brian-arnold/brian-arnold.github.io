@@ -8,7 +8,7 @@ aside:
 
 Back to [Resources](/resources/)
 
-# Notes on git
+# git templates
 
 These are working templates I use for projects using git and GitHub. While you may need more commands than listed here, 99% of the time I largely use the ones shown below and google my way out of the occasional sticky situation.
 
@@ -30,6 +30,8 @@ stage this file: `git add README.md`
 save all staged files: `git commit -m "my first commit"`
 <br>
 specify the path to the remote repo on GitHub: `git remote add origin https://github.com/USERNAME/REPOSITORY.git`
+<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;this empty repo needs to be created on the github website
 <br>
 push changes, saving them to the remote repo: `git push -u origin master`
 <br>
