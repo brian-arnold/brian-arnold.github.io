@@ -29,32 +29,28 @@ aside:
     toc: true
 ---
 
+<img align="right" src="/pages/about/headshot.jpg" style="width:150px;height:150px;">
 
-I am a Data Scientist at Princeton University where I work in the [Center for Statistics and Machine Learning](https://csml.princeton.edu/) and the [Department of Computer Science](https://www.cs.princeton.edu/).
+As part of the [DataX](https://www.princeton.edu/news/2019/02/27/datax-effort-jumpstarts-demonstration-data-science-project-princeton) initiative, I'm a biomedical data scientist in the Center for Statistics and Machine Learning at Princeton University. I work with [Ben Raphael](http://compbio.cs.brown.edu/) on topics in cancer genomics. 
+
 
 # CV
 
 See [here](/about/cv/) for my full CV.
-<br>
-Code I have written can be found on [GitHub](https://github.com/brian-arnold).
-
 
 # Career
 
-I am an academic data scientist with expertise in bioinformatics. I enjoy this job because I love sharing the excitement of scientific discovery with others and collaborating with faculty and students. The exact role of these scientists depends on their source of funding (and whether they serve a department or a particular group) and may be to:
+I enjoy working as a senior scientist in academia and collaborating with faculty and students. My exact role depends on funding sources but generally includes:
 
-- **Enhance scientific output**
+- **Scientific research**
+    - lead or collaborate on projects
     - help professors acquire grants
-    - serve as key collaborators on projects
     - pursue projects that may not result in publication 
         - high risk but high reward
-        - optimizing routinely-used computational analyses
-        - reproduce and validate results from other groups working on similar topics
-    - help wet labs and bench scientists analyze large datasets with high-performance computing clusters
-- **Provide training in technical skills**
-    - teach workshops on specific types of data analysis
+        - build computational workflows that accelerate/enable other projects
+- **Service**
+    - teach workshops on bioinformatics or data science
     - consult individual graduate students or postdocs
-    - many questions in diverse biological systems use similar techniques to processing and analyzing data
 
 
 # Background
