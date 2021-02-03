@@ -29,6 +29,8 @@ permalink: /resources/
 
 <br />
 
+Under construction.
+
 <!--- Personal Notes, taken from _data/resources.yml --->
 
 <h2> {{ site.data.resources.resource_notes_title }} </h2>
@@ -39,12 +41,3 @@ permalink: /resources/
 </ul>
 
 
-<!--- Free Online Classes, taken from _data/resources.yml --->
-
-<h2> {{ site.data.resources.resource_classes_title }} </h2>
-When your job involves staring at text all day (like mine), it's relaxing to learn by just listening. 
-<ul>
-{% for item in site.data.resources.resources_classes %}
-<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
-{% endfor %}
-</ul>

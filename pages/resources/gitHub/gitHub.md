@@ -25,8 +25,6 @@ create the first file: `touch README.md`
 <br>
 stage this file: `git add README.md`
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;the dot specifies **all** unstaged files
-<br>
 save all staged files: `git commit -m "my first commit"`
 <br>
 specify the path to the remote repo on GitHub: `git remote add origin https://github.com/USERNAME/REPOSITORY.git`
