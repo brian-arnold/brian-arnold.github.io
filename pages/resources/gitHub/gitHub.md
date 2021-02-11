@@ -82,7 +82,7 @@ For more information on branching with visualizations, see [here](https://git-sc
 
 
 ### Edit another's repo (1)
-This approach involves submitting your changes to someone's repo using a [branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging). This person may then decide to incorporate the changes. However, if you're not a [registered collaborator](https://stackoverflow.com/questions/3611256/forking-vs-branching-in-github) you may not be able to make a branch, so the next method (2) may be more appropriate.
+This approach involves using a [branch](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) to submit changes to someone's repo to which you have write-access. This person may then decide to incorporate the changes. However, if you're not a [registered collaborator](https://stackoverflow.com/questions/3611256/forking-vs-branching-in-github) you may not be able to make a branch, so the next method (2) may be more appropriate.
 
 download the remote repo on GitHub: `git clone https://github.com/USERNAME/REPOSITORY.git`
 <br>
@@ -93,11 +93,12 @@ create a new branch: `git checkout -b my_branch`
 make changes, then commit them: `git commit --all -m 'msg about changes'`
 <br>
 push changes to remote repo on GitHub: `git push -u origin my_branch`
-
+<br>
+navigate to the repo on GitHub and create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 
 ### Edit another's repo (2)
-This approach involves forking someone's repo, making a copy in your own GitHub account. You then make changes to this, and submit a pull request to this other user's account. I will make a simplifid template for this here, but this process is explained thoroughly [here](https://gist.github.com/Chaser324/ce0505fbed06b947d962).
+When you do not have write access to someone's repo, you may fork their repo, making a copy in your own GitHub account. You then make changes to this, and submit a pull request to this other user's account. I will make a simplifid template for this here, but this process is explained thoroughly [here](https://gist.github.com/Chaser324/ce0505fbed06b947d962).
 
 
 
