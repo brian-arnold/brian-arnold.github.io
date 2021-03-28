@@ -36,7 +36,8 @@ push changes, saving them to the remote repo: `git push -u origin master`
 
 After the initialization above, most work then invovles an endless loop of modifying code followed by
 ```
-git commit --all -m 'some informative msg about what changed'
+git add --all .
+git commit -m 'some informative msg about what changed'
 git push
 ```
 Note that the push command here was used without the `-u origin master`, and the `--all` flag in the commit command stages the files for you! If you want to stage them as you go, before the commit, then use `git add --all`. If you don't want git to stage *deleted* files, then use `-a` instead of `--all`.
