@@ -1,14 +1,33 @@
 ---
 layout: article
-key: page-about-cv
-permalink: /about/cv/
+titles:
+  # @start locale config
+  en      : &EN       CV
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  关于
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  zh-Hant : &ZH_HANT  關於
+  zh-TW   : *ZH_HANT
+  zh-HK   : *ZH_HANT
+  ko      : &KO       소개
+  ko-KR   : *KO
+  fr      : &FR       CV
+  fr-BE   : *FR
+  fr-CA   : *FR
+  fr-CH   : *FR
+  fr-FR   : *FR
+  fr-LU   : *FR
+  # @end locale config
+key: page-about
+permalink: /CV/
 aside:
     toc: true
 ---
-
-Back to [About](/about/)
-
-# CV 
 
 ## Education
 - **PhD** in Organismic and Evolutionary Biology, Harvard University, 2015
@@ -18,6 +37,14 @@ Back to [About](/about/)
 - **BS** in Plant Biology, University of Minnesota -- Twin Cities, 2008
     - *Honors* and *High Distinction*
 
+## Professional Exp
+- **Senior Biomedical Data Scientist**, Princeton University (2020-present)
+    - Teach workshops, collaborate with faculty, develop software
+- **Senior Bioinformatics Scientist III**, Harvard University (2018-2020)
+    - Teach workshops, collaborate with faculty, help students analyze large sequencing datasets using high-performance computing
+- **Consultant**, Day Zero Diagnostics (2018)
+    - Bacterial genomics, transmission dynamics within Massachussetts General Hospital
+
 ## Research Exp
 - Ruth L. Kirschstein **Postdoctoral Fellow**, Harvard T.H. Chan School of Public Health (2015-2018)
     - Advisors: Bill Hanage, Marc Lipsitch, Yonatan Grad
@@ -26,16 +53,9 @@ Back to [About](/about/)
 - **Fulbright Fellow**, University of Oulu (2009)
     - Advisor: Outi Savolainen
 
-## Professional Exp
-- **Senior Bioinformatics Scientist III**, Harvard University (2018-2020)
-    - Teach workshops, collaborate with faculty, help students analyze large sequencing datasets using high-performance computing
-- **Consultant**, Day Zero Diagnostics (2018)
-    - Bacterial genomics, transmission dynamics within Massachussetts General Hospital
-
-
 ## Skills
-- **Programming**: proficient in R, Python/Snakemake, Unix/Bash, Perl; familiar with C++
-- **Bioinformatics**: variant calling, genome assembly, metagenomics, high-performance computing 
+- **Programming**: proficient in Python/Snakemake, R, Unix/Bash, Perl; familiar with C++
+- **Bioinformatics**: variant calling, genome assembly, metagenomics, high-performance and cloud computing 
 - **Teaching and mentoring**: passionate about student development, patient with beginners
 - **Written and oral communication**: 16 scientific publications, 4 successful grant/fellowship applications, 3 invited talks
 - **Able to work independently and as part of a team**: creative thinker, enjoy collaborations and helping trainees
@@ -58,6 +78,9 @@ Back to [About](/about/)
         - highest grade in organic chemistry II
 
 ## Teaching Exp.
+- As [Senior Biomedical Data Scientist](#professional-exp)
+    - Best Practices in Python Packaging (2021)
+    - Introduction to R (2021)
 - As [Senior Bioinformatics Scientist](#professional-exp)
     - Introduction to R with Tidyverse (2019-2020)
     - Read mapping and variant valling (2019-2020)
@@ -73,11 +96,24 @@ Back to [About](/about/)
     - General Botany
 
 ## Publications
+
 - Preprints 
 
-    - Azarian T, Martinez P, **Arnold B**, Grant L, Corander J, Fraser C, Croucher N, Hammitt L, Reid R, Santosham M, Weatherholtz R, Bentley S, O’Brien K, Lipsitch M, and WP Hanage (2020). Predicting evolution using frequency-dependent selection in bacterial populations. *In Review*. 
+    - Xiao A, Wu F, Bushman M, Zhang J, Imakaev M, Chai PR, Duvallet C, Endo N, Erickson TB, Armas F, **Arnold B**, Chen H, Chandra F, Ghaeli N, Gu X, Hanage WP, Lee WL, Matus M, McElroy KA, Moniz K, Rhode SF, Thompson J, and EJ Alm (2021). Metrics to relate COVID-19 wastewater data to clinical testing dynamics. *medRxiv*.
+
+
+- Accepted publications
+    
+    - Campbell-Staton SC**†**, **Arnold B†**, Gonçalves D, Granli P, Poole J, Long RA, and Pringle RM (2021). Ivory poaching and the rapid evolution of tusklessness in African elephants. *Science*.
+        - **†** these authors contributed equally to this work
+
+    - **Arnold B**, Huang IT, and WP Hanage (2021). Horizontal gene transfer and adaptive evolution in bacteria. *Nature Reviews Microbiology*.
 
 - Peer-reviewed publications
+
+    - Cai L, **Arnold B**,Xi Z, Khost D, Patel N, Hartmann C, Manickam S, Sasirat S, Nikolov LA, Mathews S, Sackton T, and CC Davis (2021). Deeply altered genome architecture in the endoparasitic flowering plant *Sapria himalayana* Griff. (Rafflesiaceae). *Current Biology*: 31 (5), 1002-1011.e9.
+
+    - Azarian T, Martinez P, **Arnold B**, Qiu X, Grant L, Corander J, Fraser C, Croucher N, Hammitt L, Reid R, Santosham M, Weatherholtz R, Bentley S, O’Brien K, Lipsitch M, and WP Hanage (2020). Frequency-dependent selection can forecast evolution in Streptococcus pneumoniae. *PLoS Biology*: https://doi.org/10.1371/journal.pbio.3000878. 
 
     - **Arnold B**, Sohail M, Wadsworth C, Corander J, Hanage WP, Sunyaev S, and Y Grad (2019). Fine-scale haplotype structure reveals strong signatures of positive selection in a recombining bacterial pathogen. *Molecular Biology and Evolution* 37(2):417-428.
 
@@ -89,7 +125,7 @@ Back to [About](/about/)
 
     - Wadsworth C, **Arnold B**, Sater M, and Y Grad (2018). Azithromycin resistance through interspecific acquisition of an epistasis dependent efflux pump component and transcriptional regulator in Neisseria gonorrhoeae. *mBio* 9:e01419-18
 
-    - Azarian T, Grant L, **Arnold B**, Hammitt L, Reid R, Santosham M, Weatherholtz R, Goklish N, Thompson C, Bentley S, O’Brien K, Hanage WP, and M Lipsitch (2018). The impact of serotype-specific vaccination on phylodynamic parameters of Streptococcus pneumoniae and the pneumococcal pan-genome. *PLoS Pathogens*: https://doi.org/10.1371/journal.ppat.1006966
+    - Azarian T, Grant L, **Arnold B**, Hammitt L, Reid R, Santosham M, Weatherholtz R, Goklish N, Thompson C, Bentley S, O’Brien K, Hanage WP, and M Lipsitch (2018). The impact of serotype-specific vaccination on phylodynamic parameters of Streptococcus pneumoniae and the pneumococcal pan-genome. *PLoS Pathogens*: https://doi.org/10.1371/journal.ppat.1006966.
 
     - **Arnold B**, Gutmann M, Grad Y, Sheppard S, Corander J, Lipsitch M, and WP Hanage (2018). Weak epistasis may drive adaptation in recombining bacteria. *Genetics* 208(3):1247-1260.
 
