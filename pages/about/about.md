@@ -31,8 +31,11 @@ aside:
 
 <img align="right" src="/pages/about/headshot.jpg" style="width:150px;height:150px;">
 
-As part of Princeton University's [DataX](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) initiative, I am a biomedical data scientist in the Center for Statistics and Machine Learning. I work in the department of Computer Science with [Ben Raphael](http://compbio.cs.brown.edu/) on topics in cancer genomics, and I teach workshops on data science and software engineering.
+As part of Princeton University's [DataX](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) initiative, I am a biomedical data scientist in the Center for Statistics and Machine Learning. 
 
+In addition to teaching workshops on data science, I do research in the department of Computer Science with [Ben Raphael](http://compbio.cs.brown.edu/) on topics in cancer genomics and collaborate with [Shane Campbell-Staton](https://www.campbellstaton.com/) in the department of Ecology and Evolutionary Biology.
+
+You can find a talk of my work on "Learning mixtures and DNA copy-numbers from bulk seuqencing of tumor samples" [here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.), and I was an invited guest on the *Nice Genes!* [podcast](https://podcasts.apple.com/ca/podcast/nodding-our-tusks-to-heroic-mutations/id1622851335?i=1000574742314) for my work on tuskless African elephants.
 
 # Career
 
