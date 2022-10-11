@@ -31,7 +31,7 @@ aside:
 
 <img align="right" src="/pages/about/headshot.jpg" style="width:150px;height:150px;">
 
-As part of Princeton University's [DataX](https://www.princeton.edu/news/2019/02/27/datax-effort-jumpstarts-demonstration-data-science-project-princeton) initiative, I am a biomedical data scientist in the Center for Statistics and Machine Learning. I work in the department of Computer Science with [Ben Raphael](http://compbio.cs.brown.edu/) on topics in cancer genomics, and I teach workshops on data science and software engineering.
+As part of Princeton University's [DataX](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) initiative, I am a biomedical data scientist in the Center for Statistics and Machine Learning. I work in the department of Computer Science with [Ben Raphael](http://compbio.cs.brown.edu/) on topics in cancer genomics, and I teach workshops on data science and software engineering.
 
 
 # Career
