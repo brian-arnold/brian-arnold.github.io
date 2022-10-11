@@ -79,6 +79,8 @@ aside:
 
 ## Teaching Exp.
 - As [Senior Biomedical Data Scientist](#professional-exp)
+    - Introduction to Machine Learning (2022)
+    - Data Vizualization in Python (2022)
     - Best Practices in Python Packaging (2021)
     - Introduction to R (2021)
 - As [Senior Bioinformatics Scientist](#professional-exp)
@@ -97,19 +99,14 @@ aside:
 
 ## Publications
 
-- Preprints 
-
-    - Xiao A, Wu F, Bushman M, Zhang J, Imakaev M, Chai PR, Duvallet C, Endo N, Erickson TB, Armas F, **Arnold B**, Chen H, Chandra F, Ghaeli N, Gu X, Hanage WP, Lee WL, Matus M, McElroy KA, Moniz K, Rhode SF, Thompson J, and EJ Alm (2021). Metrics to relate COVID-19 wastewater data to clinical testing dynamics. *medRxiv*.
-
-
-- Accepted publications
-    
-    - Campbell-Staton SC**†**, **Arnold B†**, Gonçalves D, Granli P, Poole J, Long RA, and Pringle RM (2021). Ivory poaching and the rapid evolution of tusklessness in African elephants. *Science*.
-        - **†** these authors contributed equally to this work
-
-    - **Arnold B**, Huang IT, and WP Hanage (2021). Horizontal gene transfer and adaptive evolution in bacteria. *Nature Reviews Microbiology*.
-
 - Peer-reviewed publications
+
+    - Xiao A, Wu F, Bushman M, Zhang J, Imakaev M, Chai PR, Duvallet C, Endo N, Erickson TB, Armas F, **Arnold B**, Chen H, Chandra F, Ghaeli N, Gu X, Hanage WP, Lee WL, Matus M, McElroy KA, Moniz K, Rhode SF, Thompson J, and EJ Alm (2022). Metrics to relate COVID-19 wastewater data to clinical testing dynamics. *Water Research* 212 (2022) 118070.
+
+    - **Arnold B**, Huang IT, and WP Hanage (2022). Horizontal gene transfer and adaptive evolution in bacteria. *Nature Reviews Microbiology* 20, 206-218.
+
+    - Campbell-Staton SC**†**, **Arnold B†**, Gonçalves D, Granli P, Poole J, Long RA, and Pringle RM (2021). Ivory poaching and the rapid evolution of tusklessness in African elephants. *Science* 374, 483-487.
+        - **† these authors contributed equally to this work**
 
     - Cai L, **Arnold B**,Xi Z, Khost D, Patel N, Hartmann C, Manickam S, Sasirat S, Nikolov LA, Mathews S, Sackton T, and CC Davis (2021). Deeply altered genome architecture in the endoparasitic flowering plant *Sapria himalayana* Griff. (Rafflesiaceae). *Current Biology*: 31 (5), 1002-1011.e9.
 
