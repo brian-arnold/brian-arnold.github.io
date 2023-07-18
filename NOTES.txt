@@ -1,9 +1,14 @@
 
-If you want a page to also have a tab in the header of the website, add an entry to _data/navigation.yml and have the url match that of the permalink of the page you want it to go to.
+If you want a page to also have a tab in the header of the website, 
+add an entry to _data/navigation.yml and have the url match that of the 
+permalink of the page you want it to go to.
 
-To create pages in labeled subdirectories (as opposed to all pages in parent directory), just modify the 'permalink' variable in the YAML header to fix the URL for jekyll.
+To create pages in labeled subdirectories (as opposed to all pages in parent directory), 
+just modify the 'permalink' variable in the YAML header to fix the URL for jekyll.
 
-if you want to create a list of links to other pages within your website, create the data for these links (names on urls) in YAML format in the _data directory, and then loop through these using Liquid:
+if you want to create a list of links to other pages within your website, 
+create the data for these links (names on urls) in YAML format in the _data directory, 
+and then loop through these using Liquid:
 
 <ul>
 {% for item in site.data.resources.resources_1 %}
@@ -12,7 +17,10 @@ if you want to create a list of links to other pages within your website, create
 </ul>
 
 
-For pages with titles (e.g. About, Resources), do not start them with a markdown header, just regular text. For reasons I don't understand, starting a page with a header replaces the title name with the name of this header on the top of the page, duplicating it. I only observe this problem on the live website, not on the locally built one!
+For pages with titles (e.g. About, Resources), do not start them with a markdown header, just regular text. 
+For reasons I don't understand, starting a page with a header replaces the title name with the name of this 
+header on the top of the page, duplicating it. I only observe this problem on the live website, not on the 
+locally built one!
 
 
 # CHANGING THE LOGO, IN TABS BUT ALSO IN THE HEADER OF EACH PAGE

@@ -31,38 +31,28 @@ aside:
 
 <img align="right" src="/pages/about/headshot.jpg" style="width:150px;height:150px;">
 
-As part of Princeton University's [DataX](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) initiative, I am a biomedical data scientist in the Center for Statistics and Machine Learning. 
+I'm a data scientist in the [Ecology and Evolutionary Biology](https://eeb.princeton.edu/) (EEB) department at Princeton University. While my interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets, I'm *most* excited to apply these skills to EEB questions that help us understand the origins and diversity of life.
 
-In addition to teaching workshops on data science, I do research in the department of Computer Science with [Ben Raphael](http://compbio.cs.brown.edu/) on topics in cancer genomics and collaborate with [Shane Campbell-Staton](https://www.campbellstaton.com/) in the department of Ecology and Evolutionary Biology.
+As a departmental data scientist, I
+- analyze data and do research directly with faculty
+- develop computational workflows that enable or accelerate several projects
+- teach workshops
+- mentor individual students and postdocs
+- serve as consultant
 
-You can find a talk of my work on "Learning mixtures and DNA copy-numbers from bulk seuqencing of tumor samples" [here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.), and I was an invited guest on the *Nice Genes!* [podcast](https://podcasts.apple.com/ca/podcast/nodding-our-tusks-to-heroic-mutations/id1622851335?i=1000574742314) for my work on tuskless African elephants.
+I am also affiliated with the [Center for Statistics and Machine Learning](https://csml.princeton.edu/), which creates inter-departmental connections between scientists at Princeton.
 
-# Career
 
-I am a senior research scientist in academia. My exact role depends on funding sources and the community I work with but generally includes:
+# Highlights
 
-- **Collaborative research**
-    - with computer scientists
-        - run existing software on large datasets to identify issues and implement improvements
-        - help build new software for data science
-    - with biologists
-        - take a lead role in analyzing data and publishing results
-        - help students run existing software or develop custom analyses
-        - construct automated workflows for reproducible results with large datasets
-- **Building Infrastructure**
-    - develop scalable computational workflows to accelerate research
-    - adapt analyses to run in the cloud (GCP, AWS) 
-- **Service**
-    - teach workshops on bioinformatics, data science, and software engineering
-    - consult individual graduate students or postdocs
-
+- As a former data scientist in Princeton's Computer Science department, I [discuss](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) my role in the larger academic community.
+- [Here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.) is a talk of my work on "Learning mixtures and DNA copy-numbers from bulk sequencing of tumor samples" 
+- I was an invited guest on the *Nice Genes!* [podcast](https://podcasts.apple.com/ca/podcast/nodding-our-tusks-to-heroic-mutations/id1622851335?i=1000574742314) for our work on tuskless African elephants.
 
 # Background
 
-I am an evolutionary biologist at heart, interested in using data science to understand biology across the tree of life. I have published work on plants (*e.g. Arabidopsis arenosa*, *Sapria himalayana*), bacteria (*e.g. Neisseria gonorrhoeae, Streptococcus pneumoniae*), and mammals (*e.g. Loxodonta africana*), and I am currently working with human cancer data. My areas of expertise include population/statistical genetics, bioinformatics, data science, and software engineering.
+For the past 5 years, I have worked as a staff scientist in academia. 
 
-I did my PhD in plant evolutionary gentics under [Kirsten Bomblies](https://impb.ethz.ch/research/research-evo.html), and we used genomic data to understand how newly formed polyploids (which possess multiple copies of maternal and paternal genomes) arise, evolve, and colonize new habitats.
+Two of those years I spent at [Harvard Informatics](https://informatics.fas.harvard.edu/pages/about.html), creating workflows for analyzing genomic datasets, researching with faculty, and  teaching introductory workshops on bioinformatics. 
 
-For my postdoc, I worked under [Bill Hanage](https://www.hsph.harvard.edu/william-hanage/), [Marc Lipstich](https://www.hsph.harvard.edu/marc-lipsitch/), and [Yonatan Grad](https://www.hsph.harvard.edu/yonatan-grad/), studying how bacterial pathogens adapt to new environmental pressures and how this process of adaptation may leave unique, detectable signatures in bacterial genomes.
-
-Since then, I have gained broader interests in data science and computational biology, working as a senior staff scientist on diverse projects in which I analyze data to gain new insights or enhance a group's existing software.
+I then moved to Princeton University where I spent 3 years as a biomedical data scientist as part of the [DataX](https://csml.princeton.edu/datax-home) initiative. At Princeton, I worked in the Computer Science department doing research on cancer genomics and teaching workshops on software engineering and machine learning. Through these experiences, I learned to think about data in more abstract ways beyond my specialization in genomics. I now have a broad interest in algorithms, statistics, and machine learning, and I'm interested in applying these skills to ***any*** kind of data that could be useful to address important questions. However, while data science skills are incredibly transferable, it's always best to work with someone who has domain expertise in the data you're analyzing!
