@@ -31,7 +31,11 @@ permalink: /resources/
 
 Under construction.
 
-- [Data Science](/resources/datascience/)
+- [Foundational skills for data science](/resources/datascience/)
+  - content and links to work with data
+
+- [Machine learning](/resources/machinelearning/)
+  - learn ML!
 
 - [Graphic design](/resources/graphicDesign/)
 
