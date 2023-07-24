@@ -32,13 +32,12 @@ permalink: /resources/
 Under construction.
 
 - [Foundational skills for data science](/resources/datascience/)
-  - content and links to work with data
+  - content + links to learn core skills useful for any project involving data
 
-- [Machine learning](/resources/machinelearning/)
-  - learn ML!
-
+- [Learn about Machine Learning!](/resources/machinelearning/)
+  - textbook recommendations
 - [Graphic design](/resources/graphicDesign/)
-
+  - links for making beautiful figures
 - [Managing code with GitHub (templates)](/resources/gitHub/)
 
 <!--- OLD CODE, CYCLES THROUGH _data/resources.yml
