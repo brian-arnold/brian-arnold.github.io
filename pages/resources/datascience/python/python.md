@@ -4,7 +4,7 @@ key: page-resources-bioinfoTools
 permalink: /resources/datascience/python
 ---
 
-Back to [Data Science](/resources/datascience/python)
+Back to [Data Science](/resources/datascience)
 
 # Python
 

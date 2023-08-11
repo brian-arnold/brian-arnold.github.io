@@ -13,7 +13,7 @@ Although the topics below may seem like a lot, you **do not** need to be an expe
 
 - [Conda](/resources/datascience/conda)
     - essential for installing/managing software
-- Linux command line
+- [Command-line interface](/resources/datascience/commandline)
     - essential for interacting with remote servers, e.g. Princeton's High Performance Computing (HPC) clusters
 - [Python](/resources/datascience/python)
     - a general-purpose programming language that can help you at *every* stage of your research, including statistical analyses and visualization

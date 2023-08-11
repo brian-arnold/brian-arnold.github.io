@@ -32,8 +32,7 @@ permalink: /resources/
 Under construction.
 
 - [Foundational skills for data science](/resources/datascience/)
-  - content + links to learn core skills useful for any project involving data
-
+  - content/links to learn coding and software management skills useful for any project involving data
 - [Learn about Machine Learning!](/resources/machinelearning/)
   - textbook recommendations
 - [Graphic design](/resources/graphicDesign/)
