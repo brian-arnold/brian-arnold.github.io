@@ -20,8 +20,9 @@ Although the topics below may seem like a lot, you **do not** need to be an expe
     - most popular language in data science!
 
 The following topics are not as essential as the ones above but I strongly recommend learning them:
-- Visual Studio Code
+- [Visual Studio Code](https://code.visualstudio.com/)
     - code editor that makes life easier
+    - intuitive, requires minimal setup, and has many useful extensions
 - [Git and GitHub](/resources/datascience/github)
     - essential for version control (saved snapshots of your code) and collaboration
 
