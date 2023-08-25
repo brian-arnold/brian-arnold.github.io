@@ -15,11 +15,7 @@ Like classical statistics, ML is a set of tools that are extremely useful to hav
 
 For many of the textbooks linked below, free versions of PDFs are likely buried on the internet!
 
-## My favorite ML textbook
- - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
-    - not finished yet, but descriptions are wonderfully clear and concise
-    - while an introduction, it has more math/linear algebra than textbooks listed below
-    - has a follow up [book](https://probml.github.io/pml-book/book2.html) that covers advanced topics
+
 
 ## Introductory ML
 
@@ -28,7 +24,7 @@ For many of the textbooks linked below, free versions of PDFs are likely buried 
     - very applied, little to no math, great coverage of many topics (except not much detail on neural networks)
     - good discussions of the tradeoffs between predictive accuracy and interpretability
 - [Introduction to Statistical Learning](https://www.statlearning.com/)
-    - the first ML textbook I read!
+    - thorough, easy-to-read, beginner-friendly
 - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
     - great, simple intro to neural networks
     - very practical, all code and *no math*
@@ -41,8 +37,12 @@ For many of the textbooks linked below, free versions of PDFs are likely buried 
     - drink from the firehose
     - a few sections on more advanced topics were a bit hard to follow, but overall many gems here, especially the section on Structured Probabilistic Models <3<3<3
 
-
 ## Not exactly ML but real important
 - [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)
     - linear algebra is the language of ML, and Gilbert Strang is **the** person you should learn it from
     
+## My favorite ML textbook
+ - [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html)
+    - not finished yet, but descriptions are wonderfully clear and concise
+    - while introductory, has more math/linear algebra than textbooks listed below
+    - has a follow up [book](https://probml.github.io/pml-book/book2.html) that covers advanced topics

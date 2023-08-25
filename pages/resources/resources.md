@@ -37,7 +37,7 @@ Under construction.
   - textbook recommendations
 - [Graphic design](/resources/graphicDesign/)
   - links for making beautiful figures
-- [Managing code with GitHub (templates)](/resources/gitHub/)
+
 
 <!--- OLD CODE, CYCLES THROUGH _data/resources.yml
 <h2> {{ site.data.resources.resource_notes_title }} </h2>

@@ -14,7 +14,7 @@ Much research involves analyzing data using software developed by others. Conda 
 
 ### Software installation
 
-The authors of the software you want to use may not have wanted to reinvent the wheel and thus built upon previously existing software to make a new program. Consequently, when you install their software package, you also need to install the previously existing software they used, which are called *dependencies*. Conda takes care of all of this for you automatically!
+Software engineers typically build upon previously-existing software to make a new program (or package). Thus, when you install their new program, you also need to install this previously-existing software they used, which are called *dependencies*. Conda takes care of all of this for you automatically!
 
 ### Software management
 
