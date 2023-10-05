@@ -38,8 +38,10 @@ aside:
     - *Honors* and *High Distinction*
 
 ## Professional Exp
-- **Senior Biomedical Data Scientist**, Princeton University (2020-present)
-    - Teach workshops, collaborate with faculty, develop software
+- **Departmental Data Scientist**, Princeton University (2023-present)
+    - Collaborate with faculty, consult students/postdocs, teach workshops in EEB department
+- **Senior Biomedical Data Scientist**, Princeton University (2020-2023)
+    - Teach workshops, collaborate with faculty, develop software in CS department
 - **Senior Bioinformatics Scientist III**, Harvard University (2018-2020)
     - Teach workshops, collaborate with faculty, help students analyze large sequencing datasets using high-performance computing
 - **Consultant**, Day Zero Diagnostics (2018)
