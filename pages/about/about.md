@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About (UNDER CONSTRUCTION)
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -31,22 +31,39 @@ aside:
 
 <img align="right" src="/pages/about/headshot.jpg" style="width:150px;height:150px;">
 
-I'm a data scientist in the [Ecology and Evolutionary Biology](https://eeb.princeton.edu/) (EEB) department at Princeton University. While my interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets, I'm *most* excited to apply these skills to EEB questions that help us understand the origins and diversity of life.
+I'm a data scientist at Princeton University, formerly in Computer Science and currently in Ecology and Evolutionary Biology. 
 
-As a departmental data scientist, I
-- analyze data and do research directly with faculty
-- develop computational workflows that enable or accelerate several projects
+My interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets ***carefully***, using numerous sanity checks such as data visualizations and software tests. 
+
+
+As a departmental data scientist, I primarily do collaborative research, rotating among labs and queueing projects via networking within the department. Additionally, I 
+
 - teach workshops
-- mentor individual students and postdocs
+- mentor individual students or postdocs
 - serve as consultant
+- develop computational workflows that enable or accelerate several projects
+
 
 I am also affiliated with the [Center for Statistics and Machine Learning](https://csml.princeton.edu/), which creates inter-departmental connections between scientists at Princeton.
 
 
 # Highlights
 
+Here I highlight my technical contributions to selected projects, which typically involve collaborations in which I take the lead on a modular component. These contributions involve applying my skills I mentioned above to various data modalities including 3D movies of neural activity, spatial transcriptomics, and whole-genome sequencing (WGS).
+
+- [3D movie analysis](https://github.com/brian-arnold/whole_AL_segmentation): image segmentation to decode neural activity in the mosquito antennal lobe (AL)
+  - created python workflows to measure activity of the entire AL
+  - discovered technical batch effects and used the experimental design to correct them via custom statistical models
+  - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (Figure)
+
+<img align="center" src="/pages/about/timetrace.gif">
+
+
+
 - As a former data scientist in Princeton's Computer Science department, I [discuss](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) my role in the larger academic community.
+
 - [Here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.) is a talk of my work on "Learning mixtures and DNA copy-numbers from bulk sequencing of tumor samples" 
+
 - I was an invited guest on the *Nice Genes!* [podcast](https://podcasts.apple.com/ca/podcast/nodding-our-tusks-to-heroic-mutations/id1622851335?i=1000574742314) for our work on tuskless African elephants.
 
 # Background
