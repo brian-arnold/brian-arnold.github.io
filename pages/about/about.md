@@ -56,7 +56,8 @@ Here I highlight my technical contributions to selected projects, which typicall
   - discovered technical batch effects and used the experimental design to correct them via custom statistical models
   - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (Figure)
 
-<img align="center" src="/pages/about/timetrace.gif" style="width:300px;height:300px;">
+<img align="left" src="/pages/about/raw.gif">
+<img align="right" src="/pages/about/timetrace.gif">
 
 
 
