@@ -58,7 +58,7 @@ Here I highlight my technical contributions to selected projects, which typicall
 
 <img align="left" src="/pages/about/raw.gif" style="width:400px;height:400px;">
 <img align="right" src="/pages/about/timetrace.gif" style="width:400px;height:400px;">
-
+<div style="clear: both;"></div>
 
 
 - As a former data scientist in Princeton's Computer Science department, I [discuss](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) my role in the larger academic community.
