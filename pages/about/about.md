@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About (UNDER CONSTRUCTION)
+  en      : &EN       About (under construction 6/2/24)
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -56,7 +56,7 @@ Here I highlight my technical contributions to selected projects, which typicall
   - discovered technical batch effects and used the experimental design to correct them via custom statistical models
   - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (Figure)
 
-<img align="center" src="/pages/about/timetrace.gif">
+<img align="center" src="/pages/about/timetrace.gif" style="width:300px;height:300px;">
 
 
 
