@@ -107,7 +107,7 @@ Here I highlight my technical contributions to selected collaborations in which 
 
 
 <div class="image-container">
-    <img src="/pages/about/GASTON.png" alt="GASTON">
+    <img align="center" src="/pages/about/GASTON.png" alt="GASTON" style="width:800px;">
     <p class="image-caption">(A) H&E stain of a 10x Genomics Visium colorectal tumor sample. (B) Spatial domains learned by GASTON. Domains 1 and 2 are labeled as tumor and tumor-adjacent stroma, respectively, based on the histology image in (A). (C) Spatial gradients learned by GASTON show directions of maximum gene expression changes in tumor and tumor-adjacent stromal domains.</p>
 </div>
 
