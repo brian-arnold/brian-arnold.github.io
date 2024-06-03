@@ -31,7 +31,7 @@ aside:
 
 <img align="right" src="/pages/about/headshot.jpg" style="width:150px;height:150px;">
 
-I'm a data scientist at Princeton University, formerly in Computer Science and currently in Ecology and Evolutionary Biology. 
+I'm a data scientist at Princeton University, formerly in Computer Science and currently in Ecology and Evolutionary Biology. I'm also affiliated with the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).
 
 My interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets ***carefully***, using numerous sanity checks such as data visualizations and software tests. 
 
@@ -42,9 +42,6 @@ As a departmental data scientist, I primarily do collaborative research, rotatin
 - mentor individual students or postdocs
 - serve as consultant
 - develop computational workflows that enable or accelerate several projects
-
-
-I am also affiliated with the [Center for Statistics and Machine Learning](https://csml.princeton.edu/), which creates inter-departmental connections between scientists at Princeton.
 
 
 # Highlights
