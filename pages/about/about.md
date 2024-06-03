@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About (under construction 6/2/24)
+  en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -114,11 +114,19 @@ Here I highlight my technical contributions to selected collaborations in which 
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 
 
-- [HATCHet2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x): copy-number calling for tumor WGS data
-    - wrote several [modules](https://github.com/raphael-group/hatchet/blob/master/src/hatchet/utils/phase_snps.py) to phase genotypes into haplotypes using the 1000GP reference panel
+- [HATCHet2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x): copy-number calling (amplifications/deletions of DNA) for tumor WGS data
+    - wrote several modules to phase genotypes into haplotypes using the 1000GP reference panel
     - Docker-ized software for cloud computing on GCP and AWS
     - analyzed large datasets in collaboration with the [Genomic Data Analysis Network](https://docs.gdc.cancer.gov/Encyclopedia/pages/Genomic_Data_Analysis_Network/)
     - gave virtual invited [talk](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.) at University of Edinburgh's biomedical AI seminar
+
+
+<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
+<div style="text-align: center;">
+    <img src="/pages/about/HATCHET.png" alt="HATCHET" style="width: 600px;">
+    <p class="image-caption">From tumor WGS data, HATCHet2 extracts 2 features that are correlated with copy number: the fractional copy number (rescaled from read depth) and the mirrored B-allele frequency (BAF). For normal diploids, these values should be 2 and 0.5, respectively, which we observe for some genomic regions in this sample (orange dots). However, most tumors exhibit stiking variation in copy-number along the genome. </p>
+</div>
+<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 
 
 - [snpArcher](https://academic.oup.com/mbe/article/41/1/msad270/7466717): workflow to automate variant calling in nonmodel organisms
