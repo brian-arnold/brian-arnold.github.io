@@ -61,17 +61,23 @@ Here I highlight my technical contributions to selected projects, which typicall
 .container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;  /* Adjust vertical alignment if necessary */
+    flex-wrap: nowrap;  /* Prevents the items from wrapping */
+    width: 100%;  /* Ensures the container takes full width */
 }
+
 .image-container {
-    width: 400px;
+    width: 400px; /* Set a fixed width for each image container */
     text-align: center;
+    margin: 5px;  /* Optional: adds some space around each image container */
 }
+
 .image-container img {
     display: block;
-    width: 100%;
+    max-width: 100%;  /* Ensures image does not overflow its container */
     height: auto;
 }
+
 .image-caption {
     color: #666;
     font-style: italic;
