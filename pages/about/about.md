@@ -49,12 +49,12 @@ I am also affiliated with the [Center for Statistics and Machine Learning](https
 
 # Highlights
 
-Here I highlight my technical contributions to selected projects, which typically involve collaborations in which I take the lead on a modular component. These contributions involve applying my skills I mentioned above to various data modalities including 3D movies of neural activity, spatial transcriptomics, and whole-genome sequencing (WGS).
+Here I highlight my technical contributions to selected collaborations in which I take the lead on a modular component. These contributions involve applying my skills I mentioned above to various data modalities including 3D movies of neural activity, spatial transcriptomics, and whole-genome sequencing (WGS).
 
 - [3D movie analysis](https://github.com/brian-arnold/whole_AL_segmentation): image segmentation to decode neural activity in the mosquito antennal lobe (AL)
   - created python workflows to measure activity of the entire AL
   - discovered technical batch effects and used the experimental design to correct them via custom statistical models
-  - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (NMF)
+  - segmented individual glomeruli (clusters of nerve endings) within the AL via nonnegative matrix factorization (NMF)
 
 
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
@@ -87,15 +87,15 @@ Here I highlight my technical contributions to selected projects, which typicall
 
 
 <div class="container">  <!-- Parent container to hold both image containers -->
-<div class="image-container">
-    <img src="/pages/about/raw.gif" alt="Neural activity visualization">
-    <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
-</div>
+    <div class="image-container">
+        <img src="/pages/about/raw.gif" alt="Neural activity visualization">
+        <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
+    </div>
 
-<div class="image-container">
-    <img src="/pages/about/timetrace.gif"  alt="Neural activity visualization">
-    <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
-</div>
+    <div class="image-container">
+        <img src="/pages/about/timetrace.gif"  alt="Neural activity visualization">
+        <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
+    </div>
 </div>
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 
@@ -105,16 +105,30 @@ Here I highlight my technical contributions to selected projects, which typicall
   - feature-ized histology images (H&E stained) to facilitate tissue segmentation
   - analyzed several colorectal cancer datasets to characterize tumor microenvironments
 
-- As a former data scientist in Princeton's Computer Science department, I [discuss](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) my role in the larger academic community.
 
-- [Here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.) is a talk of my work on "Learning mixtures and DNA copy-numbers from bulk sequencing of tumor samples" 
+- [HATCHet2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x): copy-number calling for tumor WGS data
+    - wrote several [modules](https://github.com/raphael-group/hatchet/blob/master/src/hatchet/utils/phase_snps.py) to phase genotypes into haplotypes using the 1000GP reference panel
+    - Docker-ized software for cloud computing on GCP and AWS
+    - analyzed large datasets in collaboration with the [Genomic Data Analysis Network](https://docs.gdc.cancer.gov/Encyclopedia/pages/Genomic_Data_Analysis_Network/)
+    - gave virtual invited [talk](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.) at University of Edinburgh's biomedical AI seminar
 
-- I was an invited guest on the *Nice Genes!* [podcast](https://podcasts.apple.com/ca/podcast/nodding-our-tusks-to-heroic-mutations/id1622851335?i=1000574742314) for our work on tuskless African elephants.
+
+- [snpArcher](https://academic.oup.com/mbe/article/41/1/msad270/7466717): workflow to automate variant calling in nonmodel organisms
+    - authored original snakemake code and supplementary algorithms to massively parallelize two variant callers
+
+
+- [Tuskless African elephants](https://www.science.org/doi/10.1126/science.abe7389): poaching drives evolution of tusklessness, a female-specific trait encoded by a male-lethal mutation
+    - contributed all genomic analyses as co-first author
+    - led to over 411 news stories from 301 media outlets
+    - invited guest on the *Nice Genes!* [podcast](https://podcasts.apple.com/ca/podcast/nodding-our-tusks-to-heroic-mutations/id1622851335?i=1000574742314)
+
 
 # Background
 
-For the past 5 years, I have worked as a staff scientist in academia. 
+For the past 6 years, I have worked as a staff scientist in academia. 
 
-Two of those years I spent at [Harvard Informatics](https://informatics.fas.harvard.edu/pages/about.html), creating workflows for analyzing genomic datasets, researching with faculty, and  teaching introductory workshops on bioinformatics. 
+Two of those years I spent at [Harvard Informatics](https://informatics.fas.harvard.edu/pages/about.html), creating workflows for analyzing genomic datasets, researching with faculty, and teaching introductory workshops on bioinformatics. 
 
-I then moved to Princeton University where I spent 3 years as a biomedical data scientist as part of the [DataX](https://csml.princeton.edu/datax-home) initiative. At Princeton, I worked in the Computer Science department doing research on cancer genomics and teaching workshops on software engineering and machine learning. Through these experiences, I learned to think about data in more general ways beyond my specialization in genomics. I now have a broad interest in algorithms, statistics, and machine learning, and I'm interested in applying these skills to ***any*** kind of data that could be useful to address important questions. However, while data science skills are incredibly transferable, it's always best to work with someone who has domain expertise in the data you're analyzing!
+I then moved to Princeton University where I spent 3 years as a biomedical data scientist as part of the [DataX](https://csml.princeton.edu/datax-home) initiative. At Princeton, I worked in the Computer Science department doing research on cancer genomics and teaching workshops on software engineering and machine learning. Through these experiences, I learned to think about data in more general ways beyond my specialization in genomics. 
+
+I now have a broad interest in algorithms, statistics, and machine learning. As a departmental data scientist in Ecology and Evolutionary Biology, I'm interested in applying these skills to ***any*** kind of data that could be useful to address interesting questions. 
