@@ -54,7 +54,7 @@ Here I highlight my technical contributions to selected projects, which typicall
 - [3D movie analysis](https://github.com/brian-arnold/whole_AL_segmentation): image segmentation to decode neural activity in the mosquito antennal lobe (AL)
   - created python workflows to measure activity of the entire AL
   - discovered technical batch effects and used the experimental design to correct them via custom statistical models
-  - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (Figure)
+  - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (NMF)
 
 <img align="left" src="/pages/about/raw.gif" style="width:400px;height:400px;">
 <img align="right" src="/pages/about/timetrace.gif" style="width:400px;height:400px;">
@@ -62,9 +62,15 @@ Here I highlight my technical contributions to selected projects, which typicall
 
 
 <div class="image-container">
-    <img align="left" src="/pages/about/raw.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
-    <p class="image-caption">Caption: 2D max projection of raw data, which is noisy even after median filtering.</p>
-<div style="clear: both;"></div>
+    <img src="/pages/about/raw.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
+    <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
+</div>
+
+<div class="image-container">
+    <img src="/pages/about/timetrace.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
+    <p class="image-caption">NMF identifies spatial positions and activity traces of glomeruli.</p>
+</div>
+
 
 
 - As a former data scientist in Princeton's Computer Science department, I [discuss](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) my role in the larger academic community.
