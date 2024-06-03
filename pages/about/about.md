@@ -60,21 +60,20 @@ Here I highlight my technical contributions to selected projects, which typicall
 <style>
 .container {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-start;  /* Adjust vertical alignment if necessary */
+    justify-content: center;  /* Align items to the center horizontally */
+    align-items: flex-start;  /* Align items to the top vertically */
     flex-wrap: nowrap;  /* Prevents the items from wrapping */
-    width: 100%;  /* Ensures the container takes full width */
 }
 
 .image-container {
-    width: 350px; /* Set a fixed width for each image container */
+    width: 350px; /* Updated width according to your new image size */
     text-align: center;
-    margin: 5px;  /* Optional: adds some space around each image container */
+    margin: 10px;  /* Adds margin to create some space between the image containers */
 }
 
 .image-container img {
     display: block;
-    max-width: 100%;  /* Ensures image does not overflow its container */
+    width: 100%;  /* Image will scale with the container */
     height: auto;
 }
 
@@ -86,12 +85,12 @@ Here I highlight my technical contributions to selected projects, which typicall
 </style>
 
 <div class="image-container">
-    <img src="/pages/about/raw.gif" style="width:350px;height:350px;" alt="Neural activity visualization">
+    <img src="/pages/about/raw.gif" alt="Neural activity visualization">
     <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
 </div>
 
 <div class="image-container">
-    <img src="/pages/about/timetrace.gif" style="width:350px;height:350px;" alt="Neural activity visualization">
+    <img src="/pages/about/timetrace.gif"  alt="Neural activity visualization">
     <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
 </div>
 
