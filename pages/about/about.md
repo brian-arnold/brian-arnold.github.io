@@ -61,6 +61,12 @@ Here I highlight my technical contributions to selected projects, which typicall
 <div style="clear: both;"></div>
 
 
+<div class="image-container">
+    <img align="left" src="/pages/about/raw.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
+    <p class="image-caption">Caption: 2D max projection of raw data, which is noisy even after median filtering.</p>
+<div style="clear: both;"></div>
+
+
 - As a former data scientist in Princeton's Computer Science department, I [discuss](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) my role in the larger academic community.
 
 - [Here](https://web.inf.ed.ac.uk/cdt/biomedical-ai/events/events-past#uoe_featurebox_e98a5cc58bf69187c764e7147d3f1d965:~:text=Brian%20Arnold%2C%20Senior%20Data%20Scientist%2C%20Princeton%20University.) is a talk of my work on "Learning mixtures and DNA copy-numbers from bulk sequencing of tumor samples" 

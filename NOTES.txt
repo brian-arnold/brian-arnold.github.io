@@ -37,3 +37,78 @@ locally built one!
 - in the _sass subdir, you'll find skins/_YlGnBu.scss, which stores many variable related to colors that you can change. These colors get recycled for several things (e.g. the color for hyperlinked text was the same as how the tabs in the header navigation get highlighted when you click them), such that you can create new variables to unlink different features (e.g. I created $header-highlighted-color to make the header navigation get highlighted a different color from hyperlinked text).
 - also in the _sass subdir, there is a components dir that controls where these colors get used. I had to change _header.scss in this dir to take this new $header-highlighted-color variable I defined in skins/_YlGnBu.scss
 
+
+####
+# NOTES ABOUT INSTALLATION
+####
+
+##
+
+# Installing programs and dependencies
+
+# see docs within https://github.com/kitian616/jekyll-TeXt-theme
+
+# copy-paste error messages into google accordingly!
+
+##
+
+# install x code, then type following on command line
+
+xcode-select --install
+
+# install homebrew
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+# install ruby and ruby gems (make sure to update runy path in PATH environmental variable)
+
+brew install ruby
+
+gem install rubygems-update
+
+# install NodeJS
+
+brew install node
+
+# install Jekyll (may need to precede everything with 'sudo')
+
+gem install jekyll 
+
+
+# clone jekyll theme from github
+
+git clone https://github.com/kitian616/jekyll-TeXt-theme.git
+
+# or fork repo from github and replace with USERNAME.github.io
+
+
+
+# or create basic website from scratch in directory "test"
+
+jekyll new test
+
+# and change theme by 
+
+# 1.) open "Gemfile" and add: gem "jekyll-theme-example"
+
+
+
+# to build website locally for viewing
+
+bundle exec jekyll serve --watch
+
+# to see code for underlying theme e.g. minima
+
+bundle info --path minima
+
+
+# Creating pages and content
+
+To create a new page, you can have 1.) HTML/Md files named accordingly or 2.) named folders with index.html/Md files
+
+
+# Alternative conda INSTALLATION
+mamba create -n jekyll conda-forge::rb-jekyll -y
+mamba activate jekyll
+# i ran the following command because when I ran 'bundle exec jekyll serve --watch' in website dir I got an error
+gem install rake -v '~> 13.0'
