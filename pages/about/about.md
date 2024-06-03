@@ -57,6 +57,7 @@ Here I highlight my technical contributions to selected projects, which typicall
   - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (NMF)
 
 
+<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 <style>
 .container {
     display: flex;
@@ -84,19 +85,8 @@ Here I highlight my technical contributions to selected projects, which typicall
 }
 </style>
 
+
 <div class="container">  <!-- Parent container to hold both image containers -->
-    <div class="image-container">
-        <img src="/pages/about/raw.gif" alt="Neural activity visualization">
-        <p class="image-caption">2D max projection of raw data from the AL of a mosquito that received an odor puff. These data are noisy even after median filtering.</p>
-    </div>
-
-    <div class="image-container">
-        <img src="/pages/about/timetrace.gif" alt="Neural activity visualization">
-        <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
-    </div>
-</div>
-
-
 <div class="image-container">
     <img src="/pages/about/raw.gif" alt="Neural activity visualization">
     <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
@@ -106,6 +96,9 @@ Here I highlight my technical contributions to selected projects, which typicall
     <img src="/pages/about/timetrace.gif"  alt="Neural activity visualization">
     <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
 </div>
+</div>
+<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
+
 
 - [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment tissues from spatial transcriptomics data
   - refactored code into python package to run at scale and optimize neural network architecture
