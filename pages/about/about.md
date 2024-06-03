@@ -84,6 +84,19 @@ Here I highlight my technical contributions to selected projects, which typicall
 }
 </style>
 
+<div class="container">  <!-- Parent container to hold both image containers -->
+    <div class="image-container">
+        <img src="/pages/about/raw.gif" alt="Neural activity visualization">
+        <p class="image-caption">2D max projection of raw data from the AL of a mosquito that received an odor puff. These data are noisy even after median filtering.</p>
+    </div>
+
+    <div class="image-container">
+        <img src="/pages/about/timetrace.gif" alt="Neural activity visualization">
+        <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
+    </div>
+</div>
+
+
 <div class="image-container">
     <img src="/pages/about/raw.gif" alt="Neural activity visualization">
     <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
