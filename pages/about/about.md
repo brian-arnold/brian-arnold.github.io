@@ -56,10 +56,6 @@ Here I highlight my technical contributions to selected projects, which typicall
   - discovered technical batch effects and used the experimental design to correct them via custom statistical models
   - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (NMF)
 
-<img align="left" src="/pages/about/raw.gif" style="width:400px;height:400px;">
-<img align="right" src="/pages/about/timetrace.gif" style="width:400px;height:400px;">
-<div style="clear: both;"></div>
-
 
 <div class="image-container">
     <img src="/pages/about/raw.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
@@ -68,10 +64,13 @@ Here I highlight my technical contributions to selected projects, which typicall
 
 <div class="image-container">
     <img src="/pages/about/timetrace.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
-    <p class="image-caption">NMF identifies spatial positions and activity traces of glomeruli.</p>
+    <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
 </div>
 
-
+- [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment tissues from spatial transcriptomics data
+  - refactored code into python package to run at scale and optimize neural network architecture
+  - feature-ized histology images (H&E stained) to facilitate tissue segmentation
+  - analyzed several colorectal cancer datasets to characterize tumor microenvironments
 
 - As a former data scientist in Princeton's Computer Science department, I [discuss](https://csml.princeton.edu/news/videos-datax-data-scientists-discuss-their-role-and-impact-research) my role in the larger academic community.
 
