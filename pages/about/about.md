@@ -81,6 +81,7 @@ Here I highlight my technical contributions to selected collaborations in which 
 .image-caption {
     color: #666;
     font-style: italic;
+    font-size: 12px;
     margin-top: 8px;
 }
 </style>
@@ -123,7 +124,7 @@ Here I highlight my technical contributions to selected collaborations in which 
 
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 <div style="text-align: center;">
-    <img src="/pages/about/HATCHET.png" alt="HATCHET" style="width: 600px;">
+    <img src="/pages/about/HATCHET.png" alt="HATCHET" style="width: 500px;">
     <p class="image-caption">From tumor WGS data, HATCHet2 extracts 2 features that are correlated with copy number: the fractional copy number (rescaled from read depth) and the mirrored B-allele frequency (BAF). For normal diploids, these values should be 2 and 0.5, respectively, which we observe for some genomic regions in this sample (orange dots). However, most tumors exhibit stiking variation in copy-number along the genome. </p>
 </div>
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
