@@ -67,7 +67,7 @@ Here I highlight my technical contributions to selected collaborations in which 
 }
 
 .image-container {
-    width: 350px; /* Updated width according to your new image size */
+    width: 400px; /* Updated width according to your new image size */
     text-align: center;
     margin: 10px;  /* Adds margin to create some space between the image containers */
 }
