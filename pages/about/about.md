@@ -67,7 +67,7 @@ Here I highlight my technical contributions to selected projects, which typicall
 }
 
 .image-container {
-    width: 400px; /* Set a fixed width for each image container */
+    width: 350px; /* Set a fixed width for each image container */
     text-align: center;
     margin: 5px;  /* Optional: adds some space around each image container */
 }
@@ -86,12 +86,12 @@ Here I highlight my technical contributions to selected projects, which typicall
 </style>
 
 <div class="image-container">
-    <img src="/pages/about/raw.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
+    <img src="/pages/about/raw.gif" style="width:350px;height:350px;" alt="Neural activity visualization">
     <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
 </div>
 
 <div class="image-container">
-    <img src="/pages/about/timetrace.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
+    <img src="/pages/about/timetrace.gif" style="width:350px;height:350px;" alt="Neural activity visualization">
     <p class="image-caption">Custom visualization of NMF segmentation shows spatial positions and activity traces of glomeruli.</p>
 </div>
 
