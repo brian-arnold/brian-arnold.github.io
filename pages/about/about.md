@@ -106,6 +106,12 @@ Here I highlight my technical contributions to selected collaborations in which 
   - analyzed several colorectal cancer datasets to characterize tumor microenvironments
 
 
+<div class="image-container">
+    <img src="/pages/about/GASTON.png" alt="GASTON">
+    <p class="image-caption">(A) H&E stain of a 10x Genomics Visium colorectal tumor sample. (B) Spatial domains learned by GASTON. Domains 1 and 2 are labeled as tumor and tumor-adjacent stroma, respectively, based on the histology image in (A). (C) Spatial gradients learned by GASTON show directions of maximum gene expression changes in tumor and tumor-adjacent stromal domains.</p>
+</div>
+
+
 - [HATCHet2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x): copy-number calling for tumor WGS data
     - wrote several [modules](https://github.com/raphael-group/hatchet/blob/master/src/hatchet/utils/phase_snps.py) to phase genotypes into haplotypes using the 1000GP reference panel
     - Docker-ized software for cloud computing on GCP and AWS
