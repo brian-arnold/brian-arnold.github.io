@@ -57,6 +57,28 @@ Here I highlight my technical contributions to selected projects, which typicall
   - segmented individual glomeruli (clusters of nerve endings) via nonnegative matrix factorization (NMF)
 
 
+<style>
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.image-container {
+    width: 400px;
+    text-align: center;
+}
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.image-caption {
+    color: #666;
+    font-style: italic;
+    margin-top: 8px;
+}
+</style>
+
 <div class="image-container">
     <img src="/pages/about/raw.gif" style="width:400px;height:400px;" alt="Neural activity visualization">
     <p class="image-caption">2D max projection of raw data from the AL of a mosquito that recieved an odor puff. These data are noisy even after median filtering.</p>
