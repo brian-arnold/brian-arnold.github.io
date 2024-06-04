@@ -33,7 +33,7 @@ aside:
 - **Programming**: proficient in Python/Snakemake, R, Unix/Bash; familiar with C++ and Perl
 - **Bioinformatics**: genomics, spatial transcriptomics, image analysis, high-performance and cloud computing 
 - **Teaching and mentoring**: passionate about student development, patient with beginners
-- **Written and oral communication**: 25 scientific publications, 4 successful grant/fellowship applications, 3 invited talks
+- **Written and oral communication**: 25 scientific publications, 4 successful grant/fellowship applications, 4 invited talks
 - **Able to work independently and as part of a team**: creative thinker, enjoy collaborations and helping trainees
 
 ## Education
