@@ -33,10 +33,10 @@ aside:
 
 I'm a data scientist at Princeton University, formerly in Computer Science and currently in Ecology and Evolutionary Biology. I'm also affiliated with the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).
 
-My interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets ***carefully***, using numerous sanity checks such as data visualizations and software tests. 
+My interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets ***carefully*** by frequently using sanity checks such as data visualizations and software tests. 
 
 
-As a departmental data scientist, I primarily do collaborative research, rotating among labs and queueing projects via networking within the department. Additionally, I 
+As a departmental data scientist, I primarily do collaborative research by rotating among labs (~4 month terms) and queueing projects via networking within the department. I also
 
 - teach workshops
 - mentor individual students or postdocs
@@ -46,7 +46,7 @@ As a departmental data scientist, I primarily do collaborative research, rotatin
 
 # Highlights
 
-Here I highlight my technical contributions to selected collaborations in which I take the lead on a modular component. These contributions involve applying my skills I mentioned above to various data modalities including 3D movies of neural activity, spatial transcriptomics, and whole-genome sequencing (WGS).
+Here, I highlight my technical contributions to selected collaborations in which I take the lead on a modular component. These contributions involve applying my skills mentioned above to various data modalities including 3D movies of neural activity, spatial transcriptomics, and whole-genome sequencing (WGS).
 
 - [3D movie analysis](https://github.com/brian-arnold/whole_AL_segmentation): image segmentation to decode neural activity in the mosquito antennal lobe (AL)
   - created python workflows to measure activity of the entire AL
