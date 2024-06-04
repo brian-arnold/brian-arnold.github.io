@@ -80,6 +80,9 @@ aside:
         - highest grade in organic chemistry II
 
 ## Teaching Exp.
+- As [Departmental Data Scientist](#professional-exp)
+   - Introduction to Computational Biology Workflows (2024) [github](https://github.com/brian-arnold/intro_compbio_workflows_2024)
+    - Introduction to Machine Learning (2023) [github](https://github.com/brian-arnold/intro_ml_eeb_2023)
 - As [Senior Biomedical Data Scientist](#professional-exp)
     - Introduction to Machine Learning (2022)
     - Data Vizualization in Python (2022)
