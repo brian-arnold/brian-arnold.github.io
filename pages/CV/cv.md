@@ -104,48 +104,54 @@ aside:
 
 ## Publications
 
-- Peer-reviewed publications
+- Chitra U, **Arnold B**, Sarkar H, Ma C, Lopez-Darwin S, Sanno K, Raphael B (2024). Mapping the topography of spatial gene expression with interpretable deep learning. RECOMB 2024.
 
-    - Xiao A, Wu F, Bushman M, Zhang J, Imakaev M, Chai PR, Duvallet C, Endo N, Erickson TB, Armas F, **Arnold B**, Chen H, Chandra F, Ghaeli N, Gu X, Hanage WP, Lee WL, Matus M, McElroy KA, Moniz K, Rhode SF, Thompson J, and EJ Alm (2022). Metrics to relate COVID-19 wastewater data to clinical testing dynamics. *Water Research* 212 (2022) 118070.
+- Myers M, **Arnold B**, Bansal V, Balaban M, Mullen K, Zaccaria S, B Raphael (2024). HATCHet2: clone-and haplotype-specific copy number inference from bulk tumor sequencing data. *Genome Biology* 25 (1):1-28.
 
-    - **Arnold B**, Huang IT, and WP Hanage (2022). Horizontal gene transfer and adaptive evolution in bacteria. *Nature Reviews Microbiology* 20, 206-218.
+- Mirchandani C, Shultz A, Thomas G, Smith S, Baylis M, **Arnold B**, Corbett-Detig R, Enbody E, T Sackton (2024). A Fast, Reproducible, High-throughput Variant Calling Workflow for Population Genomics. *Molecular Biology and Evolution* 41 (1): msad270.
 
-    - Campbell-Staton SC**†**, **Arnold B†**, Gonçalves D, Granli P, Poole J, Long RA, and Pringle RM (2021). Ivory poaching and the rapid evolution of tusklessness in African elephants. *Science* 374, 483-487.
-        - **† these authors contributed equally to this work**
+- Kinnaman M, Zaccaria S, Makohon-Moore A, **Arnold B**, Levine M, Gundem G, Arango Ossa J, Glodzik D, Rodríguez-Sánchez M, Bouvier N, Li S, Stockfisch E, Dunigan M, Cobbs C, Bhanot U, You D, Mullen K, Melchor J, Ortiz M, O'Donohue T, Slotkin E, Wexler L, Dela Cruz F, Hameed M, Glade Bender J, Tap W, Meyers P, Papaemmanuil E, Kung A, Iacobuzio-Donahue C (2023). Subclonal somatic copy-number alterations emerge and dominate in recurrent osteosarcoma. *Cancer Research* 83 (22): 3796–3812.
 
-    - Cai L, **Arnold B**,Xi Z, Khost D, Patel N, Hartmann C, Manickam S, Sasirat S, Nikolov LA, Mathews S, Sackton T, and CC Davis (2021). Deeply altered genome architecture in the endoparasitic flowering plant *Sapria himalayana* Griff. (Rafflesiaceae). *Current Biology*: 31 (5), 1002-1011.e9.
+- Xiao A, Wu F, Bushman M, Zhang J, Imakaev M, Chai PR, Duvallet C, Endo N, Erickson TB, Armas F, **Arnold B**, Chen H, Chandra F, Ghaeli N, Gu X, Hanage WP, Lee WL, Matus M, McElroy KA, Moniz K, Rhode SF, Thompson J, and EJ Alm (2022). Metrics to relate COVID-19 wastewater data to clinical testing dynamics. *Water Research* 212 (2022) 118070.
 
-    - Azarian T, Martinez P, **Arnold B**, Qiu X, Grant L, Corander J, Fraser C, Croucher N, Hammitt L, Reid R, Santosham M, Weatherholtz R, Bentley S, O’Brien K, Lipsitch M, and WP Hanage (2020). Frequency-dependent selection can forecast evolution in Streptococcus pneumoniae. *PLoS Biology*: https://doi.org/10.1371/journal.pbio.3000878. 
+- **Arnold B**, Huang IT, and WP Hanage (2022). Horizontal gene transfer and adaptive evolution in bacteria. *Nature Reviews Microbiology* 20, 206-218.
 
-    - **Arnold B**, Sohail M, Wadsworth C, Corander J, Hanage WP, Sunyaev S, and Y Grad (2019). Fine-scale haplotype structure reveals strong signatures of positive selection in a recombining bacterial pathogen. *Molecular Biology and Evolution* 37(2):417-428.
+- Campbell-Staton SC**†**, **Arnold B†**, Gonçalves D, Granli P, Poole J, Long RA, and Pringle RM (2021). Ivory poaching and the rapid evolution of tusklessness in African elephants. *Science* 374, 483-487.
+    - **† these authors contributed equally to this work**
 
-    - Pensar J, Puranen S, **Arnold B**, MacAlasdair N, Kuronen J, Tonkin-Hill G, Pesonen M, Xu Y, Sipola A, Sánchez-Busó  L, Lees J, Chewapreecha C, Bentley S, Harris S, Parkhill J, Croucher N, and J Corander (2019). Genome-wide epistasis and co-selection study using mutual information. *Nucleic Acids Research* 47(18):e112-e112.
+- Cai L, **Arnold B**,Xi Z, Khost D, Patel N, Hartmann C, Manickam S, Sasirat S, Nikolov LA, Mathews S, Sackton T, and CC Davis (2021). Deeply altered genome architecture in the endoparasitic flowering plant *Sapria himalayana* Griff. (Rafflesiaceae). *Current Biology*: 31 (5), 1002-1011.e9.
 
-    - Monnahan P, Kolář F, Baduel  P, Sailer  C, Koch J, Horvath R, Laenen B, Schmickl  R, Paajanen  P, Šrámková  G, Bohutínská  M, **Arnold B**, Weisman  C, Marhold K, Slotte T, Bomblies K, and L Yant (2019). Pervasive population genomic consequences of genome duplication in Arabidopsis arenosa. *Nature Ecology and Evolution* 3(3):457-468
+- Azarian T, Martinez P, **Arnold B**, Qiu X, Grant L, Corander J, Fraser C, Croucher N, Hammitt L, Reid R, Santosham M, Weatherholtz R, Bentley S, O’Brien K, Lipsitch M, and WP Hanage (2020). Frequency-dependent selection can forecast evolution in Streptococcus pneumoniae. *PLoS Biology*: https://doi.org/10.1371/journal.pbio.3000878. 
 
-    - Shapiro L, Paulson J, **Arnold B**, Scully E, Zhaxybayeva O, Pierce N, Rocha J, Klepac-Ceraj V, Holton K, and R Kolter (2018). An introduced crop plant is driving diversification of the virulent plant pathogen Erwinia tracheiphila. *mBio* 9:e01307-18.
+- **Arnold B**, Sohail M, Wadsworth C, Corander J, Hanage WP, Sunyaev S, and Y Grad (2019). Fine-scale haplotype structure reveals strong signatures of positive selection in a recombining bacterial pathogen. *Molecular Biology and Evolution* 37(2):417-428.
 
-    - Wadsworth C, **Arnold B**, Sater M, and Y Grad (2018). Azithromycin resistance through interspecific acquisition of an epistasis dependent efflux pump component and transcriptional regulator in Neisseria gonorrhoeae. *mBio* 9:e01419-18
+- Pensar J, Puranen S, **Arnold B**, MacAlasdair N, Kuronen J, Tonkin-Hill G, Pesonen M, Xu Y, Sipola A, Sánchez-Busó  L, Lees J, Chewapreecha C, Bentley S, Harris S, Parkhill J, Croucher N, and J Corander (2019). Genome-wide epistasis and co-selection study using mutual information. *Nucleic Acids Research* 47(18):e112-e112.
 
-    - Azarian T, Grant L, **Arnold B**, Hammitt L, Reid R, Santosham M, Weatherholtz R, Goklish N, Thompson C, Bentley S, O’Brien K, Hanage WP, and M Lipsitch (2018). The impact of serotype-specific vaccination on phylodynamic parameters of Streptococcus pneumoniae and the pneumococcal pan-genome. *PLoS Pathogens*: https://doi.org/10.1371/journal.ppat.1006966.
+- Monnahan P, Kolář F, Baduel  P, Sailer  C, Koch J, Horvath R, Laenen B, Schmickl  R, Paajanen  P, Šrámková  G, Bohutínská  M, **Arnold B**, Weisman  C, Marhold K, Slotte T, Bomblies K, and L Yant (2019). Pervasive population genomic consequences of genome duplication in Arabidopsis arenosa. *Nature Ecology and Evolution* 3(3):457-468
 
-    - **Arnold B**, Gutmann M, Grad Y, Sheppard S, Corander J, Lipsitch M, and WP Hanage (2018). Weak epistasis may drive adaptation in recombining bacteria. *Genetics* 208(3):1247-1260.
+- Shapiro L, Paulson J, **Arnold B**, Scully E, Zhaxybayeva O, Pierce N, Rocha J, Klepac-Ceraj V, Holton K, and R Kolter (2018). An introduced crop plant is driving diversification of the virulent plant pathogen Erwinia tracheiphila. *mBio* 9:e01307-18.
 
-    - Corander J, Fraser C, Gutmann M, **Arnold B**, Hanage WP, Bentley S, Lipsitch M, and N Croucher (2017). Frequency-dependent selection in vaccine-associated pheumococcal population dynamics. *Nature ecology & evolution* 1:1950-1960.
+- Wadsworth C, **Arnold B**, Sater M, and Y Grad (2018). Azithromycin resistance through interspecific acquisition of an epistasis dependent efflux pump component and transcriptional regulator in Neisseria gonorrhoeae. *mBio* 9:e01419-18
 
-    - **Arnold B**, Lahner B, DaCosta J, Weisman C, Hollister J, Salt D, Bomblies K, and L Yant (2016). Borrowed alleles and convergence in serpentine adaptation. *Proceedings of the National Academy of Sciences of the USA*, 113(29): 8320-8325.
+- Azarian T, Grant L, **Arnold B**, Hammitt L, Reid R, Santosham M, Weatherholtz R, Goklish N, Thompson C, Bentley S, O’Brien K, Hanage WP, and M Lipsitch (2018). The impact of serotype-specific vaccination on phylodynamic parameters of Streptococcus pneumoniae and the pneumococcal pan-genome. *PLoS Pathogens*: https://doi.org/10.1371/journal.ppat.1006966.
 
-    - Baduel P, **Arnold B**, Weisman C, Hunter B, and K Bomblies (2016). Habitat-associated life history and stress-tolerance variation in Arabidopsis arenosa. *Plant physiology*, 171(1): 437-451.
+- **Arnold B**, Gutmann M, Grad Y, Sheppard S, Corander J, Lipsitch M, and WP Hanage (2018). Weak epistasis may drive adaptation in recombining bacteria. *Genetics* 208(3):1247-1260.
 
-    - **Arnold B**, Kim S, and K Bomblies. (2015). Single origin of autotetraploid Arabidopsis arenosa followed by interploidy admixture. *Molecular Biology and Evolution*, 32(6):1382-1395.
+- Corander J, Fraser C, Gutmann M, **Arnold B**, Hanage WP, Bentley S, Lipsitch M, and N Croucher (2017). Frequency-dependent selection in vaccine-associated pheumococcal population dynamics. *Nature ecology & evolution* 1:1950-1960.
 
-    - Wright K, **Arnold B**, Xue K, Šurinová M, O'Connell J, and K Bomblies, (2014). Selection on meiosis genes in diploid and tetraploid Arabidopsis arenosa. *Molecular Biology and Evolution*, 32(4): 944-955.
+- **Arnold B**, Lahner B, DaCosta J, Weisman C, Hollister J, Salt D, Bomblies K, and L Yant (2016). Borrowed alleles and convergence in serpentine adaptation. *Proceedings of the National Academy of Sciences of the USA*, 113(29): 8320-8325.
 
-    - **Arnold B**, Corbett-Detig R, Hartl D, and K Bomblies (2013). RADseq underestimates diversity and introduces genealogical biases due to nonrandom haplotype sampling. *Molecular Ecology*, Vol 22: 3179-3190.
+- Baduel P, **Arnold B**, Weisman C, Hunter B, and K Bomblies (2016). Habitat-associated life history and stress-tolerance variation in Arabidopsis arenosa. *Plant physiology*, 171(1): 437-451.
 
-    - Yant L, Hollister JD, Wright K, **Arnold B**, Higgins JD, Franklin F, and K Bomblies, (2013). Meiotic adaptation to genome duplication in Arabidopsis arenosa. *Current Biology*. 23, pp. 2151-2156.
+- **Arnold B**, Kim S, and K Bomblies. (2015). Single origin of autotetraploid Arabidopsis arenosa followed by interploidy admixture. *Molecular Biology and Evolution*, 32(6):1382-1395.
 
-    - Hollister J, **Arnold B**, Svedin E, Xue K, Dilkes B, and K Bomblies, (2012). Genetic adaptation associated with genome-doubling in autotetraploid Arabidopsis arenosa. *PLoS Genetics*, 8(12): e1003093
+- Wright K, **Arnold B**, Xue K, Šurinová M, O'Connell J, and K Bomblies, (2014). Selection on meiosis genes in diploid and tetraploid Arabidopsis arenosa. *Molecular Biology and Evolution*, 32(4): 944-955.
 
-    - **Arnold B**, Bomblies K, and J Wakeley (2012). Extending coalescent theory to autotetraploids. *Genetics* 192(1):195-204.
+- **Arnold B**, Corbett-Detig R, Hartl D, and K Bomblies (2013). RADseq underestimates diversity and introduces genealogical biases due to nonrandom haplotype sampling. *Molecular Ecology*, Vol 22: 3179-3190.
+
+- Yant L, Hollister JD, Wright K, **Arnold B**, Higgins JD, Franklin F, and K Bomblies, (2013). Meiotic adaptation to genome duplication in Arabidopsis arenosa. *Current Biology*. 23, pp. 2151-2156.
+
+- Hollister J, **Arnold B**, Svedin E, Xue K, Dilkes B, and K Bomblies, (2012). Genetic adaptation associated with genome-doubling in autotetraploid Arabidopsis arenosa. *PLoS Genetics*, 8(12): e1003093
+
+- **Arnold B**, Bomblies K, and J Wakeley (2012). Extending coalescent theory to autotetraploids. *Genetics* 192(1):195-204.
 
