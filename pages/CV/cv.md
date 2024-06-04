@@ -115,9 +115,10 @@ aside:
 - Xiao A, Wu F, Bushman M, Zhang J, Imakaev M, Chai PR, Duvallet C, Endo N, Erickson TB, Armas F, **Arnold B**, Chen H, Chandra F, Ghaeli N, Gu X, Hanage WP, Lee WL, Matus M, McElroy KA, Moniz K, Rhode SF, Thompson J, and EJ Alm (2022). Metrics to relate COVID-19 wastewater data to clinical testing dynamics. *Water Research* 212 (2022) 118070.
 
 - **Arnold B**, Huang IT, and WP Hanage (2022). Horizontal gene transfer and adaptive evolution in bacteria. *Nature Reviews Microbiology* 20, 206-218.
-
+    - **highlighted as the cover article for April issue of Nature Reviews Microbiology**
 - Campbell-Staton SC**†**, **Arnold B†**, Gonçalves D, Granli P, Poole J, Long RA, and Pringle RM (2021). Ivory poaching and the rapid evolution of tusklessness in African elephants. *Science* 374, 483-487.
     - **† these authors contributed equally to this work**
+    - **featured in over 40 media interviews including New York Times, Science magazine, and Nature magazine**
 
 - Cai L, **Arnold B**,Xi Z, Khost D, Patel N, Hartmann C, Manickam S, Sasirat S, Nikolov LA, Mathews S, Sackton T, and CC Davis (2021). Deeply altered genome architecture in the endoparasitic flowering plant *Sapria himalayana* Griff. (Rafflesiaceae). *Current Biology*: 31 (5), 1002-1011.e9.
 
