@@ -29,6 +29,13 @@ aside:
     toc: true
 ---
 
+## Skills
+- **Programming**: proficient in Python/Snakemake, R, Unix/Bash; familiar with C++ and Perl
+- **Bioinformatics**: genomics, spatial transcriptomics, image analysis, high-performance and cloud computing 
+- **Teaching and mentoring**: passionate about student development, patient with beginners
+- **Written and oral communication**: 25 scientific publications, 4 successful grant/fellowship applications, 3 invited talks
+- **Able to work independently and as part of a team**: creative thinker, enjoy collaborations and helping trainees
+
 ## Education
 - **PhD** in Organismic and Evolutionary Biology, Harvard University, 2015
     - Dissertation: "*Evolutionary dynamics of a multiple-ploidy system in Arabidopsis arenosa*"
@@ -54,13 +61,6 @@ aside:
     - Jukka Corander's group: Bayesian optimization, approximate bayesian computation, machine learning
 - **Fulbright Fellow**, University of Oulu (2009)
     - Advisor: Outi Savolainen
-
-## Skills
-- **Programming**: proficient in Python/Snakemake, R, Unix/Bash, Perl; familiar with C++
-- **Bioinformatics**: variant calling, genome assembly, metagenomics, high-performance and cloud computing 
-- **Teaching and mentoring**: passionate about student development, patient with beginners
-- **Written and oral communication**: 16 scientific publications, 4 successful grant/fellowship applications, 3 invited talks
-- **Able to work independently and as part of a team**: creative thinker, enjoy collaborations and helping trainees
 
 ## Academic Awards
 - **Postdoctoral Awards** (Harvard T.H. Chan School of Public Health)
