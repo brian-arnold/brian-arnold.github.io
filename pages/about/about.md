@@ -36,7 +36,7 @@ I'm a data scientist at Princeton University, formerly in Computer Science and c
 My interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets ***carefully*** by frequently using sanity checks such as data visualizations and software tests. 
 
 
-As a departmental data scientist, I primarily do collaborative research by rotating among labs (~4 month terms) and queueing projects via networking within the department. I also
+As a departmental data scientist, I primarily do collaborative research by rotating among labs (~4 month terms to maximize diversity) and queueing projects via networking within the department. I also
 
 - teach workshops
 - mentor individual students or postdocs
