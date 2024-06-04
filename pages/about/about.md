@@ -29,7 +29,7 @@ aside:
     toc: true
 ---
 
-<img align="right" src="/pages/about/headshot.jpg" style="width:150px;height:150px;">
+<img src="/pages/about/headshot.jpg" style="width:150px; height:150px; float: right; margin-left: 20px; margin-bottom: 10px;">
 
 I'm a data scientist at Princeton University, formerly in Computer Science and currently in Ecology and Evolutionary Biology. I'm also affiliated with the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).
 
