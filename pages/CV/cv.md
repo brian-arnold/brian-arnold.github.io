@@ -51,14 +51,14 @@ Seeking a dynamic role in a motivated team of biologists and data scientists to 
 
 ## Experience
 
-**Departmental Data Scientist**	(2023-present)
+**Departmental Data Scientist**	(2023-present)  
 Princeton University, Ecology and Evolutionary Biology
 - Segmented 3D 2-photon microscopy videos of brains and directed statistical analyses to decode animal behavior
 - Led machine-/deep-learning analyses of 40+ enhancer-readout datasets to characterize cis-regulatory motifs
 - Supervised genomic analyses (short- and long-read) to investigate rapid evolution in Chernobyl wolves
 - Gave 2 workshops on machine learning and Snakemake workflows for computational biology
 
-**Biomedical Data Scientist** (2020-2023)
+**Biomedical Data Scientist** (2020-2023)  
 Princeton University, Computer Science
 - Packaged new software to optimize neural networks that segment tissues in spatial transcriptomics data and run at scale
 - Authored two modules of new software to detect copy-number variants in bulk tumor sequencing data
@@ -66,43 +66,43 @@ Princeton University, Computer Science
 - Authored Science paper (co-first) on the evolutionary genetics of tusklessness in African elephants
 - Taught 4 workshops on Python Packaging, data visualization, machine learning, and R
 
-**Senior Bioinformatics Scientist** (2018-2020)
+**Senior Bioinformatics Scientist** (2018-2020)  
 Harvard University
 - Created and published Snakemake workflow to massively parallelize variant calling 
 - Designed machine learning classifier to quantify scale of horizontal gene transfer in world’s largest flower species
 - Authored highly cited review (cover article) in Nature Reviews Microbiology on horizontal gene transfer in bacteria
 - Taught 2 workshops on R and genomics
 
-**Consultant** (2018)
+**Consultant** (2018)  
 Day Zero Diagnostics
 - Disentangled unexpected transmission dynamics within Massachusetts General Hospital using bacterial genomes
 
-**Postdoctoral Fellow** (2015-2018)
+**Postdoctoral Fellow** (2015-2018)  
 Harvard T.H. Chan School of Public Health
 - Inferred recombination parameters from bacterial genomes via Bayesian optimization with Gaussian Process regression
 - Designed fast, memory-efficient population genetic simulators in C++ to test novel analyses of bacterial genomes
 - Mentored 1 Master’s student, 2 undergraduates
 
-**PhD Candidate** (2009-2015)
+**PhD Candidate** (2009-2015)  
 Harvard University 										        
 - Bomblies lab: generated a variety of genomic data to study the evolutionary origins of tetraploid Arabidopsis arenosa
 - Kleckner lab: used immunofluorescence cytology to explore meiotic cell cycle delays in tetraploid yeast
 - Wakeley group: developed new population genetic theory for tetraploids using probability theory and Markov chains
 
-**Fulbright Fellow** (2009)
+**Fulbright Fellow** (2009)  
 University of Oulu – Finland
 - Sequenced candidate genes to identify mutations associated with hairlessness in the plant Arabidopsis lyrata
 
 ## Education
 
-**Harvard University**
+**Harvard University**  
 PhD, Organismic and Evolutionary Biology (2015)
 - Dissertation: “Evolutionary dynamics of a multiple-ploidy system in Arabidopsis arenosa”
 - Primary advisor: Kirsten Bomblies
 - Secondary advisor: Nancy Kleckner
 - Committee members: John Wakeley, David Reich, Hopi Hoekstra
 
-**University of Minnesota – Twin Cities**
+**University of Minnesota – Twin Cities**  
 BS (Honors and High Distinction), Plant Biology (2008)
 
 ## Selected Awards And Honors
@@ -177,7 +177,7 @@ BS (Honors and High Distinction), Plant Biology (2008)
 
 ## Large-Team Experience
 
-**Biomedical Data Scientist**
+**Biomedical Data Scientist**  
 Princeton University, Computer Science
 - Contributed copy-number variant calls to National Cancer Institute’s Genomic Data Analysis Network
     - Multi-Institutional Italian Lung Diagnostic (2022-2023)
