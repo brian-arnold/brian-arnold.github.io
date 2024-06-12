@@ -35,9 +35,9 @@ For many of the textbooks linked below, free versions of PDFs are likely buried 
 
 - [Deep Learning](https://www.deeplearningbook.org/) 
     - drink from the firehose
-    - a few sections on more advanced topics were a bit hard to follow, but overall many gems here, especially the section on Structured Probabilistic Models <3<3<3
+    - a few sections on more advanced topics were a bit hard to follow, but overall many gems here, especially the section on Structured Probabilistic Models
 
-## Not exactly ML but real important
+## Foundations
 - [Introduction to Linear Algebra](https://math.mit.edu/~gs/linearalgebra/)
     - linear algebra is the language of ML, and Gilbert Strang is **the** person you should learn it from
     
