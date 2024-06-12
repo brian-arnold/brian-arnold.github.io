@@ -29,12 +29,12 @@ aside:
     toc: true
 ---
 
-## Personal Summary
+
+<h2>Personal Summary</h2>
 
 Highly adaptive computational biologist with 9+ years of professional data-science experience, specializing in machine learning and software (Python and R). Successfully led projects from conception to completion and significantly improved analytical capabilities of research teams by managing large datasets with scalable solutions. Learns fast, works hard, and navigates uncertainty well. 
 
 Seeking a dynamic role in a motivated team of biologists and data scientists to use my technical skills for innovative research that uses data of various modalities. Interested in positions that offer both collaborative and leadership opportunities.
-
 
 
 ## Skills
@@ -46,7 +46,6 @@ Seeking a dynamic role in a motivated team of biologists and data scientists to 
 - **Data visualization**: proficient with Matplotlib and Seaborn; experience with Plotly for interactive 3D figures
 - **Communication**: authored 25 scientific publications, 4 successful grant/fellowship applications, 9 workshops
 - **Teaching and mentoring**: taught 11 highly acclaimed workshops, designed 7 of these from scratch; patient with beginners
-
 
 
 ## Experience
@@ -93,6 +92,7 @@ Harvard University
 University of Oulu – Finland
 - Sequenced candidate genes to identify mutations associated with hairlessness in the plant Arabidopsis lyrata
 
+
 ## Education
 
 **Harvard University**  
@@ -104,6 +104,7 @@ PhD, Organismic and Evolutionary Biology (2015)
 
 **University of Minnesota – Twin Cities**  
 BS (Honors and High Distinction), Plant Biology (2008)
+
 
 ## Selected Awards And Honors
 - NIH F32 Postdoctoral Fellowship (2016-2018)
@@ -117,6 +118,7 @@ BS (Honors and High Distinction), Plant Biology (2008)
     - best student in organic chemistry series
 - Prentice Hall Book Prize (2006)
     - highest grade in organic chemistry II
+
 
 ## Peer-reviewed Publications
 
@@ -174,6 +176,7 @@ BS (Honors and High Distinction), Plant Biology (2008)
 - Hollister J, **Arnold B**, Svedin E, Xue K, Dilkes B, and K Bomblies, (2012). Genetic adaptation associated with genome-doubling in autotetraploid Arabidopsis arenosa. *PLoS Genetics*, 8(12): e1003093
 
 - **Arnold B**, Bomblies K, and J Wakeley (2012). Extending coalescent theory to autotetraploids. *Genetics* 192(1):195-204.
+
 
 ## Large-Team Experience
 
@@ -242,6 +245,7 @@ Princeton University, Computer Science
     - Supervised lab experiments, graded exams
 - **General Botany** (2007)
     - Supervised lab experiments, graded exams
+
 
 ## Presentations
 
