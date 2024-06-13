@@ -53,7 +53,7 @@ Seeking a dynamic role in a motivated team of biologists and data scientists to 
 Princeton University, Ecology and Evolutionary Biology
 - Segmented 3D 2-photon microscopy videos of brains and directed statistical analyses to decode animal behavior
 - Led machine-/deep-learning analyses of 40+ enhancer-readout datasets to characterize cis-regulatory motifs
-- Supervised genomic analyses (short- and long-read) to investigate rapid evolution in Chernobyl wolves
+- Managed 2 trainees on large scale (400+ samples) whole-genome sequencing projects using short- and long-read data
 - Gave 2 workshops on machine learning and Snakemake workflows for computational biology
 
 **Biomedical Data Scientist** (2020-2023)  
