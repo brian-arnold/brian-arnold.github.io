@@ -98,7 +98,7 @@ Here, I highlight my technical contributions to selected collaborations in which
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 
 
-- [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment tissues from spatial transcriptomics data
+- [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment domains from spatial transcriptomics data
   - refactored code into python package to run at scale and optimize neural network architecture
   - feature-ized histology images (H&E stained) to facilitate tissue segmentation
   - analyzed several colorectal cancer datasets to characterize tumor microenvironments
