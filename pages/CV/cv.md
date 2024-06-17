@@ -29,7 +29,9 @@ aside:
     toc: true
 ---
 
-<h2>Personal Summary</h2>
+#### [PDF version](/pages/CV/cv.pdf)
+
+## Personal Summary 
 
 Highly adaptive computational biologist with 9+ years of professional data-science experience, specializing in machine learning and software (Python and R). Successfully led projects from conception to completion and significantly improved analytical capabilities of research teams by managing large datasets with scalable solutions. Learns fast, works hard, and navigates uncertainty well. 
 
