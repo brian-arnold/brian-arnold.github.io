@@ -52,7 +52,7 @@ Here, I highlight my technical contributions to selected collaborations in which
 - [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment domains and study continuous variation in gene expression from spatial transcriptomics data
   - refactored code into python package to run at scale and optimize neural network architecture
   - feature-ized histology images (H&E stained) to facilitate tissue segmentation
-  - analyzed several colorectal cancer datasets to characterize tumor microenvironments
+  - analyzed several colorectal cancer datasets to characterize metabolic gradients and the tumor microenvironment
 
 
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
