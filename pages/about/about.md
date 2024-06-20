@@ -48,6 +48,21 @@ As a departmental data scientist, I primarily do collaborative research by rotat
 
 Here, I highlight my technical contributions to selected collaborations in which I take the lead on a modular component. These contributions involve applying my skills mentioned above to various data modalities including 3D movies of neural activity, spatial transcriptomics, and whole-genome sequencing (WGS).
 
+
+- [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment domains and study continuous variation in gene expression from spatial transcriptomics data
+  - refactored code into python package to run at scale and optimize neural network architecture
+  - feature-ized histology images (H&E stained) to facilitate tissue segmentation
+  - analyzed several colorectal cancer datasets to characterize tumor microenvironments
+
+
+<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
+<div style="text-align: center;">
+    <img src="/pages/about/GASTON.png" alt="GASTON" style="width: 800px;">
+    <p class="image-caption">(A) H&E stain of a 10x Genomics Visium colorectal tumor sample. (B) Spatial domains learned by GASTON. Domains 1 and 2 are labeled as tumor and tumor-adjacent stroma, respectively, based on the histology image in (A). (C) Spatial gradients learned by GASTON show directions of maximum gene expression changes in tumor and tumor-adjacent stromal domains.</p>
+</div>
+<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
+
+
 - [3D movie analysis](https://github.com/brian-arnold/whole_AL_segmentation): image segmentation to decode neural activity in the mosquito antennal lobe (AL)
   - created python workflows to measure activity of the entire AL
   - discovered technical batch effects and used the experimental design to correct them via custom statistical models
@@ -97,19 +112,6 @@ Here, I highlight my technical contributions to selected collaborations in which
 </div>
 <!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 
-
-- [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment domains from spatial transcriptomics data
-  - refactored code into python package to run at scale and optimize neural network architecture
-  - feature-ized histology images (H&E stained) to facilitate tissue segmentation
-  - analyzed several colorectal cancer datasets to characterize tumor microenvironments
-
-
-<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
-<div style="text-align: center;">
-    <img src="/pages/about/GASTON.png" alt="GASTON" style="width: 800px;">
-    <p class="image-caption">(A) H&E stain of a 10x Genomics Visium colorectal tumor sample. (B) Spatial domains learned by GASTON. Domains 1 and 2 are labeled as tumor and tumor-adjacent stroma, respectively, based on the histology image in (A). (C) Spatial gradients learned by GASTON show directions of maximum gene expression changes in tumor and tumor-adjacent stromal domains.</p>
-</div>
-<!-- Ensure there is a clear separation between HTML and any Markdown elements -->
 
 
 - [HATCHet2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03267-x): copy-number calling (amplifications/deletions of DNA) for tumor WGS data
