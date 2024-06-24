@@ -39,7 +39,7 @@ Seeking a dynamic role in a motivated team of biologists and data scientists to 
 
 
 ## Skills
-- **Programming**: proficient in Python, R, Bash; familiar with C/C++; comfortable reading source code in any language
+- **Programming**: proficient in Python, R, Bash; familiar with C/C++; comfortable reading code in any language
 - **Machine learning**: proficient in scipy, scikit-learn, scikit-image, PyTorch, Keras, numpy, Statsmodels
 - **Bioinformatics**: adept at genomics (short-/long-read), spatial/single-cell transcriptomics, images/videos analyses
 - **Large datasets**: adept at parallelizing tasks via Snakemake workflows, Python multiprocessing libraries
