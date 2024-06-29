@@ -29,8 +29,9 @@ aside:
     toc: true
 ---
 
-#### [CV PDF](/pages/CV/cv.pdf)
-#### [Resume (short) PDF](/pages/CV/resume.pdf)
+## PDFs
+[CV PDF](/pages/CV/cv.pdf)
+[Resume PDF (short)](/pages/CV/resume.pdf)
 
 
 ## Personal Summary 
