@@ -29,7 +29,6 @@ aside:
     toc: true
 ---
 
-## PDFs
 
 [CV PDF](/pages/CV/cv.pdf)
 
