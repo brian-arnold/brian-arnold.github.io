@@ -29,7 +29,9 @@ aside:
     toc: true
 ---
 
-#### [PDF version](/pages/CV/cv.pdf)
+#### [CV PDF](/pages/CV/cv.pdf)
+#### [Resume (short) PDF](/pages/CV/resume.pdf)
+
 
 ## Personal Summary 
 
@@ -55,7 +57,7 @@ Seeking a dynamic role in a motivated team of biologists and data scientists to 
 Princeton University, Ecology and Evolutionary Biology
 - Segmented 3D 2-photon microscopy videos of brains and directed statistical analyses to decode animal behavior
 - Led machine-/deep-learning analyses of 40+ enhancer-readout datasets to characterize cis-regulatory motifs
-- Managed 2 trainees on large scale (400+ samples) whole-genome sequencing projects using short- and long-read data
+- Managed 2 trainees on large scale sequencing projects involving 700+ samples and 10+ TB of data
 - Gave 2 workshops on machine learning and Snakemake workflows for computational biology
 
 **Biomedical Data Scientist** (2020-2023)  
