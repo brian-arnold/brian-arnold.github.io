@@ -30,7 +30,9 @@ aside:
 ---
 
 ## PDFs
+
 [CV PDF](/pages/CV/cv.pdf)
+
 [Resume PDF (short)](/pages/CV/resume.pdf)
 
 
