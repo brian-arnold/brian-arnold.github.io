@@ -46,7 +46,7 @@ Highly adaptive computational biologist with 9+ years of professional data-scien
 - **Large datasets**: adept at parallelizing tasks via Snakemake workflows, Python multiprocessing libraries
 - **Computing**: adept at high-performance computing (SLURM), experience with cloud computing (GCP, AWS) 
 - **Data visualization**: proficient with Matplotlib and Seaborn; experience with Plotly for interactive 3D figures
-- **Communication**: authored 25 scientific publications, 4 successful grant/fellowship applications, 9 workshops
+- **Communication**: authored 25 scientific publications, 4 successful grant/fellowship applications
 - **Teaching and mentoring**: taught 11 highly acclaimed workshops, designed 7 of these from scratch; patient with beginners
 
 
