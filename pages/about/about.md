@@ -33,20 +33,19 @@ aside:
 
 I'm a data scientist at Princeton University, formerly in Computer Science and currently in Ecology and Evolutionary Biology. I'm also affiliated with the [Center for Statistics and Machine Learning](https://csml.princeton.edu/).
 
-My interests and expertise are in software engineering, statistics, machine learning, and analyzing large datasets ***carefully*** by frequently using sanity checks such as data visualizations and software tests. 
+My interests and expertise are in bioinformatics, software engineering, machine learning, and analyzing large-scale datasets using extensive visualizations. 
 
+As a senior data scientist, I primarily collaborate as an independent contributor, rotating among labs (~4 month terms to maximize diversity) and queueing projects via networking within the department. Additionally, I:
 
-As a departmental data scientist, I primarily do collaborative research by rotating among labs (~4 month terms to maximize diversity) and queueing projects via networking within the department. I also
-
-- teach workshops
-- mentor individual students or postdocs
-- serve as consultant
 - develop computational workflows that enable or accelerate several projects
+- mentor individual students or postdocs
+- teach workshops
+- serve as consultant
 
 
 # Highlights
 
-Here, I highlight my technical contributions to selected collaborations in which I take the lead on a modular component. These contributions involve applying my skills mentioned above to various data modalities including 3D movies of neural activity, spatial transcriptomics, and whole-genome sequencing (WGS).
+Here, I highlight my technical contributions to selected collaborations in which I take the lead on a modular component. These contributions involve applying my skills mentioned above to various data modalities including spatial transcriptomics, 3D movies of neural activity, and whole-genome sequencing (WGS).
 
 
 - [GASTON](https://www.biorxiv.org/content/10.1101/2023.10.10.561757v1): deep neural network to segment domains and study continuous variation in gene expression from spatial transcriptomics data
@@ -137,14 +136,3 @@ Here, I highlight my technical contributions to selected collaborations in which
     - contributed all genomic analyses as co-first author
     - led to over 411 news stories from 301 media outlets
     - invited guest on the *Nice Genes!* [podcast](https://podcasts.apple.com/ca/podcast/nodding-our-tusks-to-heroic-mutations/id1622851335?i=1000574742314)
-
-
-# Background
-
-For the past 6 years, I have worked as a staff scientist in academia. 
-
-Two of those years I spent at [Harvard Informatics](https://informatics.fas.harvard.edu/pages/about.html), creating workflows for analyzing genomic datasets, researching with faculty, and teaching introductory workshops on bioinformatics. 
-
-I then moved to Princeton University where I spent 3 years as a biomedical data scientist as part of the [DataX](https://csml.princeton.edu/datax-home) initiative. At Princeton, I worked in the Computer Science department doing research on cancer genomics and teaching workshops on software engineering and machine learning. Through these experiences, I learned to think about data in more general ways beyond my specialization in genomics. 
-
-I now have a broad interest in algorithms, statistics, and machine learning. As a departmental data scientist in Ecology and Evolutionary Biology, I'm interested in applying these skills to ***any*** kind of data that could be useful to address interesting questions. 
